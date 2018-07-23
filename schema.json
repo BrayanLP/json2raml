@@ -1,0 +1,52 @@
+[
+  {
+    "type": "user",
+    "attributes": {
+      "name": {
+        "type": "string",
+        "maxLength": 10,
+        "pattern": "/[a-zA-Z]/"
+      },
+      "age": "integer"
+    },
+    "relationships": {
+      "token": {
+        "data": {
+          "type": "token"
+        }
+      }
+    }
+  },
+  {
+    "type": "token",
+    "attributes": {
+      "value": "string",
+      "created": "datetime"
+    }
+  },
+  {
+    "type": "user2",
+    "attributes": {
+      "name": {
+        "type": "string",
+        "maxLength": 10,
+        "pattern": "/[a-zA-Z]/"
+      },
+      "age": "integer"
+    },
+    "relationships": {
+      "token": {
+        "data": {
+          "type": "token"
+        }
+      }
+    }
+  },
+  {
+    "type": "token",
+    "attributes": {
+      "value": "string",
+      "created": "datetime"
+    }
+  }
+]

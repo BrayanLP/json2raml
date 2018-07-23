@@ -1,0 +1,196 @@
+{
+  "title": "Example with responses",
+  "mediaType": "application/json",
+  "resources": [
+    {
+      "methods": [
+        {
+          "responses": [
+            {
+              "code": "200",
+              "body": [
+                {
+                  "name": "application/json",
+                  "displayName": "Invoice",
+                  "typePropertyKind": "TYPE_EXPRESSION",
+                  "type": "object",
+                  "properties": [
+                    {
+                      "name": "id",
+                      "displayName": "id",
+                      "typePropertyKind": "TYPE_EXPRESSION",
+                      "type": "number",
+                      "required": true,
+                      "key": "id"
+                    },
+                    {
+                      "type": "number",
+                      "name": "amount",
+                      "displayName": "amount",
+                      "typePropertyKind": "TYPE_EXPRESSION",
+                      "required": true,
+                      "minimum": 0,
+                      "key": "amount"
+                    },
+                    {
+                      "type": "string",
+                      "name": "vendorName",
+                      "displayName": "vendorName",
+                      "typePropertyKind": "TYPE_EXPRESSION",
+                      "required": true,
+                      "key": "vendorName"
+                    }
+                  ],
+                  "key": "application/json",
+                  "additionalProperties": true,
+                  "examples": [],
+                  "__typeConsistent": true
+                }
+              ],
+              "key": "200"
+            }
+          ],
+          "method": "get",
+          "allUriParameters": [],
+          "absoluteUri": "/invoices",
+          "relativeUri": "/invoices"
+        },
+        {
+          "responses": [
+            {
+              "code": "201",
+              "headers": [
+                {
+                  "name": "Location",
+                  "displayName": "Location",
+                  "typePropertyKind": "TYPE_EXPRESSION",
+                  "type": "string",
+                  "required": true,
+                  "key": "Location",
+                  "examples": [
+                    "/invoices/45612"
+                  ]
+                }
+              ],
+              "body": [
+                {
+                  "name": "application/json",
+                  "displayName": "application/json",
+                  "typePropertyKind": "TYPE_EXPRESSION",
+                  "type": "any",
+                  "key": "application/json"
+                },
+                {
+                  "name": "text/xml",
+                  "displayName": "text/xml",
+                  "typePropertyKind": "TYPE_EXPRESSION",
+                  "type": "any",
+                  "key": "text/xml"
+                }
+              ],
+              "key": "201"
+            },
+            {
+              "code": "422",
+              "body": [
+                {
+                  "name": "application/json",
+                  "displayName": "application/json",
+                  "typePropertyKind": "TYPE_EXPRESSION",
+                  "type": "object",
+                  "properties": [
+                    {
+                      "name": "error",
+                      "displayName": "error",
+                      "typePropertyKind": "TYPE_EXPRESSION",
+                      "type": "string",
+                      "required": true,
+                      "key": "error"
+                    }
+                  ],
+                  "key": "application/json",
+                  "examples": [
+                    "{\n  \"error\": \"Amount cannot be negative\"\n}"
+                  ]
+                }
+              ],
+              "key": "422"
+            }
+          ],
+          "body": [
+            {
+              "name": "application/json",
+              "displayName": "Invoice",
+              "typePropertyKind": "TYPE_EXPRESSION",
+              "type": "object",
+              "key": "application/json",
+              "properties": [
+                {
+                  "type": "number",
+                  "name": "amount",
+                  "displayName": "amount",
+                  "typePropertyKind": "TYPE_EXPRESSION",
+                  "required": true,
+                  "minimum": 0,
+                  "key": "amount"
+                },
+                {
+                  "type": "string",
+                  "name": "vendorName",
+                  "displayName": "vendorName",
+                  "typePropertyKind": "TYPE_EXPRESSION",
+                  "required": true,
+                  "key": "vendorName"
+                }
+              ],
+              "additionalProperties": true,
+              "examples": [],
+              "__typeConsistent": true
+            }
+          ],
+          "method": "post",
+          "allUriParameters": [],
+          "absoluteUri": "/invoices",
+          "relativeUri": "/invoices"
+        }
+      ],
+      "relativeUri": "/invoices",
+      "displayName": "/invoices",
+      "relativeUriPathSegments": [
+        "invoices"
+      ],
+      "absoluteUri": "/invoices",
+      "parentUrl": "",
+      "allUriParameters": []
+    }
+  ],
+  "namespace": "Api",
+  "types": {
+    "Invoice": {
+      "type": "object",
+      "properties": [
+        {
+          "type": "number",
+          "name": "amount",
+          "displayName": "amount",
+          "typePropertyKind": "TYPE_EXPRESSION",
+          "required": true,
+          "minimum": 0,
+          "key": "amount"
+        },
+        {
+          "type": "string",
+          "name": "vendorName",
+          "displayName": "vendorName",
+          "typePropertyKind": "TYPE_EXPRESSION",
+          "required": true,
+          "key": "vendorName"
+        }
+      ],
+      "name": "Invoice",
+      "displayName": "Invoice",
+      "typePropertyKind": "TYPE_EXPRESSION",
+      "additionalProperties": true
+    }
+  }
+}

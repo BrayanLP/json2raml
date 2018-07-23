@@ -1,0 +1,23 @@
+{
+  "name": "json2raml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "case": "^1.5.5",
+    "js-yaml": "^3.12.0",
+    "json2yaml": "^1.1.0",
+    "jsonapi2raml": "^0.2.7",
+    "raml-json-enhance-node": "^0.3.2",
+    "ramldt2jsonschema": "^0.3.0",
+    "request": "^2.87.0",
+    "yaml": "^1.0.0-rc.7",
+    "yargs": "^12.0.1"
+  }
+}

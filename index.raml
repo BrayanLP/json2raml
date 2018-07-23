@@ -1,0 +1,24 @@
+
+#%RAML 1.0
+  title: Human API
+  /person/id:
+    200:    
+    properties:
+      id:
+        type: integer
+        description: The unique identifier for a product
+      name:
+        type: string
+        description: Name of the product
+      price:
+        type: number
+        minimum: 0
+      tags?: array
+      madeIn?: Address
+      photo?:
+        type: file
+        fileTypes:
+          - image/jpeg
+          - image/png
+    displayName: Product
+    description: A product from Acme's catalog
