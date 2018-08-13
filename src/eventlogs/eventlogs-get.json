@@ -1,0 +1,125 @@
+{
+  "results": [
+    {
+      "source": "Back-office",
+      "objectId": "744a1a06-f4bc-4b85-9c21-263c0d86c837",
+      "objectName": "test001",
+      "created": "2018-03-26T06:46:39.215988Z",
+      "action": "SINCRONIZACION DE CPANEL",
+      "ip": "209.45.68.65",
+      "user": "admin",
+      "entity": "CPANEL",
+      "id": "0aa6209c-84ee-49bb-a24d-9b54af7c0431",
+      "summary": "SINCRONIZACION DEL CPANEL test001"
+    },
+    {
+      "source": "Back-office",
+      "objectId": "744a1a06-f4bc-4b85-9c21-263c0d86c837",
+      "objectName": "test001",
+      "created": "2018-03-26T06:46:54.062964Z",
+      "action": "SINCRONIZACION DE CPANEL",
+      "ip": "209.45.68.65",
+      "user": "admin",
+      "entity": "CPANEL",
+      "id": "c3f50216-83ff-48d1-98ce-dde2d84bfe1f",
+      "summary": "SINCRONIZACION DEL CPANEL test001"
+    },
+    {
+      "source": "Back-office",
+      "objectId": "744a1a06-f4bc-4b85-9c21-263c0d86c837",
+      "objectName": "test001",
+      "created": "2018-03-26T07:07:39.819363Z",
+      "action": "SINCRONIZACION DE CPANEL",
+      "ip": "209.45.68.65",
+      "user": "admin",
+      "entity": "CPANEL",
+      "id": "e369fc41-0b2d-4b9a-991c-5346c053e9c0",
+      "summary": "SINCRONIZACION DEL CPANEL test001"
+    },
+    {
+      "source": "Back-office",
+      "objectId": "744a1a06-f4bc-4b85-9c21-263c0d86c837",
+      "objectName": "test001",
+      "created": "2018-03-26T07:07:46.658765Z",
+      "action": "SINCRONIZACION DE CPANEL",
+      "ip": "209.45.68.65",
+      "user": "admin",
+      "entity": "CPANEL",
+      "id": "447a310e-a497-46eb-9642-4a8659be49f2",
+      "summary": "SINCRONIZACION DEL CPANEL test001"
+    },
+    {
+      "source": "Back-office",
+      "objectId": "744a1a06-f4bc-4b85-9c21-263c0d86c837",
+      "objectName": "test001",
+      "created": "2018-03-26T07:18:07.123209Z",
+      "action": "SINCRONIZACION DE CPANEL",
+      "ip": "209.45.68.65",
+      "user": "admin",
+      "entity": "CPANEL",
+      "id": "58903733-e4e8-4cf5-b14f-04e387136b97",
+      "summary": "SINCRONIZACION DEL CPANEL test001"
+    },
+    {
+      "source": "Back-office",
+      "objectId": "abdd9f52-a360-4a35-b13a-e00653a60430",
+      "objectName": "test002",
+      "created": "2018-03-26T11:50:54.384305Z",
+      "action": "SINCRONIZACION DE CPANEL",
+      "ip": "209.45.68.65",
+      "user": "admin",
+      "entity": "CPANEL",
+      "id": "5285346c-5511-4a88-bd39-92598e81ec49",
+      "summary": "SINCRONIZACION DEL CPANEL test002"
+    },
+    {
+      "source": "Back-office",
+      "objectId": "744a1a06-f4bc-4b85-9c21-263c0d86c837",
+      "objectName": "test001",
+      "created": "2018-04-02T04:25:18.939044Z",
+      "action": "SINCRONIZACION DE CPANEL",
+      "ip": "209.45.68.65",
+      "user": "admin",
+      "entity": "CPANEL",
+      "id": "f909fcd1-89cb-4bda-a4aa-7ddcd7cc15a3",
+      "summary": "SINCRONIZACION DEL CPANEL test001"
+    },
+    {
+      "source": "Back-office",
+      "objectId": "744a1a06-f4bc-4b85-9c21-263c0d86c837",
+      "objectName": "test001",
+      "created": "2018-04-02T05:15:15.125315Z",
+      "action": "SINCRONIZACION DE CPANEL",
+      "ip": "209.45.68.65",
+      "user": "admin",
+      "entity": "CPANEL",
+      "id": "aae23cf7-b112-4216-8404-6e12470dd42d",
+      "summary": "SINCRONIZACION DEL CPANEL test001"
+    },
+    {
+      "source": "Back-office",
+      "objectId": "f328bfeb-5301-43c0-8b3e-c8312d522687",
+      "objectName": "cppneltg",
+      "created": "2018-04-03T12:29:56.848770Z",
+      "action": "POST",
+      "ip": null,
+      "user": "user",
+      "entity": "AccountStatus",
+      "id": "5ecc5502-dac0-4481-a3dc-45ac5bc118a3",
+      "summary": "Registro de estado Pendiente para la cuenta cppneltg"
+    },
+    {
+      "source": "Back-office",
+      "objectId": "11795b1f-63c3-461e-8ab3-ad235e3ba2f2",
+      "objectName": "cppneltg",
+      "created": "2018-04-03T12:36:42.133463Z",
+      "action": "POST",
+      "ip": null,
+      "user": "user",
+      "entity": "AccountStatus",
+      "id": "a4f6a6d7-90ad-4c07-9522-be17645deb46",
+      "summary": "Registro de estado Activada para la cuenta cppneltg"
+    }
+  ],
+  "metadata": { "count": 113, "limit": 10, "offset": 0 }
+}

@@ -1,0 +1,23 @@
+{
+  "updated": null,
+  "name": "pe",
+  "providers": [
+    {
+      "updated": null,
+      "name": "RCP",
+      "created": "2018-05-07T11:59:08.912427Z",
+      "canAddRemoveIps": true,
+      "enabled": true,
+      "restrictedOwnership": false,
+      "nameClass": "rcp",
+      "slug": "rcp",
+      "metadata_": null,
+      "supportIpv6": true,
+      "id": "60232fd9-ac3d-49fa-af1c-c928c942bf51"
+    }
+  ],
+  "created": "2018-05-07T11:59:09.028464Z",
+  "enabled": true,
+  "id": "59c98388-c988-46d3-b851-00248b43efa8",
+  "slug": "dominio-pe"
+}

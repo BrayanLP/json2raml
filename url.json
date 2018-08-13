@@ -52,7 +52,6 @@
   "http://172.20.60.48:8002/api/v1/cpanels",
   "http://172.20.60.48:8002/api/v1/stats",
   "http://172.20.60.48:8002/api/v1/clusters",
-  "http://172.20.60.48:8002/api/v1/eventlogs",
   "http://172.20.60.48:8002/api/v1/packages",
   "http://172.20.60.48:8002/api/v1/reasons",
   "http://172.20.60.48:8002/api/v1/accounts",
@@ -60,10 +59,6 @@
   "http://172.20.60.48:8001/api/v1/slds",
   "http://172.20.60.48:8001/api/v1/providers",
   "http://172.20.60.48:8001/api/v1/states",
-  "http://172.20.60.48:8001/api/v1/reasons",
   "http://172.20.60.48:8001/api/v1/domains",
-  "http://172.20.60.48:8001/api/v1/providers",
-  "http://172.20.60.48:8001/api/v1/states",
-  "http://172.20.60.48:8001/api/v1/reasons",
   "http://172.20.60.48:8001/api/v1/eventlogs"
 ]

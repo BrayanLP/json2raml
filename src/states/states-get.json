@@ -1,0 +1,53 @@
+{
+  "results": [
+    {
+      "updated": null,
+      "name": "Fallida",
+      "created": "2018-05-07T11:59:09.273776Z",
+      "enabled": true,
+      "id": "a1478917-8c0c-459c-ac53-6690e98f63c5",
+      "slug": "fallida"
+    },
+    {
+      "updated": null,
+      "name": "Creada",
+      "created": "2018-05-07T11:59:09.287200Z",
+      "enabled": true,
+      "id": "c6770b9c-2e1b-4715-ba5c-0d29a4fad2ac",
+      "slug": "creada"
+    },
+    {
+      "updated": null,
+      "name": "Activada",
+      "created": "2018-05-07T11:59:09.296908Z",
+      "enabled": true,
+      "id": "0712d128-f329-4931-b397-b08fa140e82d",
+      "slug": "activada"
+    },
+    {
+      "updated": null,
+      "name": "Suspendida",
+      "created": "2018-05-07T11:59:09.307047Z",
+      "enabled": true,
+      "id": "21e81bda-c464-43f4-8be1-566c732ced40",
+      "slug": "suspendida"
+    },
+    {
+      "updated": null,
+      "name": "Eliminada",
+      "created": "2018-05-07T11:59:09.318176Z",
+      "enabled": true,
+      "id": "25bdd4b1-6995-410c-a30d-5d8470476f85",
+      "slug": "eliminada"
+    },
+    {
+      "updated": null,
+      "name": "Pendiente",
+      "created": "2018-05-07T11:59:09.329669Z",
+      "enabled": true,
+      "id": "b762bb15-78b8-44b3-a485-62bc03a550e1",
+      "slug": "pendiente"
+    }
+  ],
+  "metadata": { "count": 6, "limit": 10, "offset": 0 }
+}

@@ -1,0 +1,20 @@
+{
+  "status": {
+    "slug": "up",
+    "description": null,
+    "name": "Alta",
+    "id": "9ee97b41-f6dc-41d9-8b08-42dea8a5f6eb"
+  },
+  "updated": "2018-05-22T16:39:34.297245Z",
+  "created": "2018-05-19T10:27:46.822148Z",
+  "productCategoryId": "6685a89f-6a88-4d32-9828-63f0be717389",
+  "reason": "Registro de estado Activada para la cuenta hectorol",
+  "customerId": "bdb2d6e9-9064-4a7a-9ef4-25f86fd3bf7b",
+  "activationDate": "2018-05-19T10:27:46.806120Z",
+  "serviceId": "47acf3c5-c8aa-47fc-a3ee-ecee5582c42d",
+  "expirationDate": "2019-05-19T10:27:46.806120Z",
+  "technicalStatus": "Activada",
+  "activeBy": null,
+  "id": "0882f7ad-7e97-4c58-a566-3ccf119bd31d",
+  "productId": "5e707124-ade7-4d1c-a8cc-e97792f372c6"
+}

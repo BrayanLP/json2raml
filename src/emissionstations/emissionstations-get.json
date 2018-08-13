@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "emissionType": "fisico",
+      "updated": "2018-05-15T10:59:23.121568Z",
+      "code": "OFFICE-01",
+      "description": "Oficina de Surquillo",
+      "created": null,
+      "enabled": true,
+      "id": "fd40b1b3-543d-4512-9db9-0f010e737d21",
+      "name": "Oficina"
+    },
+    {
+      "emissionType": "electronico",
+      "updated": "2018-05-15T11:17:37.377706Z",
+      "code": "ONLINE-01",
+      "description": "Emisi\u00f3n Online",
+      "created": null,
+      "enabled": true,
+      "id": "8c0e9897-7c5a-4da6-aae4-ccdf72ccfa10",
+      "name": "Online"
+    }
+  ],
+  "metadata": { "count": 2, "limit": 10, "offset": 0 }
+}

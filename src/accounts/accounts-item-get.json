@@ -1,0 +1,29 @@
+{
+  "diskUsed": 1,
+  "bandwidthUsed": 0,
+  "domain": "user0013.com.pe",
+  "created": "2018-04-02T05:15:28.620482Z",
+  "url": "http://test001srq.yachay.pe:2083",
+  "cpanelId": "744a1a06-f4bc-4b85-9c21-263c0d86c837",
+  "bandwidthUsedPercent": 0,
+  "updated": "2018-07-13T10:37:46.119744Z",
+  "diskTotal": "Ilimitado",
+  "email": "user@rcp.pe",
+  "status": {
+    "updated": null,
+    "name": "Activada",
+    "created": "2018-03-22T16:35:38.291094Z",
+    "enabled": true,
+    "id": "78e21943-9235-457f-9f4b-407219cb9e19",
+    "slug": "activada"
+  },
+  "user": "user0013",
+  "packageId": "96ff9b3c-88cd-4e2c-930b-0b92c769127d",
+  "ownerId": null,
+  "progress": 100,
+  "message": "None",
+  "password": null,
+  "diskUsedPercent": 0,
+  "id": "dbe8fb9a-8748-4aba-8e2d-bc3c235212ff",
+  "bandwidthTotal": "0"
+}

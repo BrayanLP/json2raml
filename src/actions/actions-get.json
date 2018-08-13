@@ -1,0 +1,53 @@
+{
+  "results": [
+    {
+      "updated": null,
+      "description": "Otorga permisos de lectura",
+      "name": "Listar",
+      "created": null,
+      "id": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "slug": "list"
+    },
+    {
+      "updated": null,
+      "description": "Otorga permisos de escritura - creaci\u00f3n",
+      "name": "Crear",
+      "created": null,
+      "id": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "slug": "create"
+    },
+    {
+      "updated": null,
+      "description": "Otorga permisos de eliminaci\u00f3n",
+      "name": "Eliminar",
+      "created": null,
+      "id": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "slug": "delete"
+    },
+    {
+      "updated": "2017-08-25T14:30:05Z",
+      "description": "Otorga permisos de escritura - edici\u00f3n",
+      "name": "Editar",
+      "created": null,
+      "id": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "slug": "update"
+    },
+    {
+      "updated": null,
+      "description": "Obtiene informaci\u00f3n de detalle",
+      "name": "Obtener",
+      "created": null,
+      "id": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "slug": "get"
+    },
+    {
+      "updated": null,
+      "description": null,
+      "name": "Acceso a modulos",
+      "created": null,
+      "id": "98390dcc-b1b8-47da-babd-44a540690079",
+      "slug": "module"
+    }
+  ],
+  "metadata": { "count": 6, "limit": 10, "offset": 0 }
+}

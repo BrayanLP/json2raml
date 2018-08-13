@@ -1,0 +1,2730 @@
+{
+  "updated": null,
+  "description": "Administrador general del backoffice",
+  "name": "Administrador",
+  "created": null,
+  "id": "9dc6ccae-51ca-47ea-8c51-b6e1d652be2e",
+  "slug": "admin",
+  "permissions": [
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "741e03c2-04f6-49af-ab19-9071cef81219",
+      "id": "cb3600eb-a167-4edf-8364-401de9e93225",
+      "name": "Listar clientes"
+    },
+    {
+      "updated": "2017-08-25T10:04:08Z",
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "741e03c2-04f6-49af-ab19-9071cef81219",
+      "id": "4a0b1398-717b-42a5-8376-eba9f9429ac3",
+      "name": "Crear clientes"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "741e03c2-04f6-49af-ab19-9071cef81219",
+      "id": "bb38276c-2f2e-4757-b1bf-262755ab71ea",
+      "name": "Editar clientes"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "741e03c2-04f6-49af-ab19-9071cef81219",
+      "id": "14a885c3-1cac-45d1-ab7e-0dacc58eb18d",
+      "name": "Eliminar clientes"
+    },
+    {
+      "updated": "2017-10-31T10:35:58Z",
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "835a2db0-61e5-4b76-a442-bbf82fa22b33",
+      "id": "04a2f4b0-64af-41a1-b0c2-5f1f090b170a",
+      "name": "Listar suscripciones"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "5188ff2c-d183-46f2-948e-de70b3ae2d99",
+      "id": "1f530326-2da3-4326-842a-a3efbc2b707d",
+      "name": "Listar ordenes"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "ef2f56e5-b7e8-46be-a444-e18b8c624edf",
+      "id": "35b85588-6085-498c-bd3f-675a7be1357f",
+      "name": "Listar productos"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "06882840-803d-4872-8c93-dfe291a334eb",
+      "id": "5284c082-416f-41b5-bcb9-e08e4ddd87cf",
+      "name": "Listar paquetes"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "682581d4-c2a7-441d-857c-651dc41ee59c",
+      "id": "4f6c1a02-9e1e-4ef5-9046-db63ea6e31a0",
+      "name": "Listar c\u00f3digos promocionales"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "8418eb45-2e84-40fc-b7bc-149f9d9d12ea",
+      "id": "7f4a52eb-c9b4-47e0-b762-0915ba03398e",
+      "name": "Listar categor\u00edas"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "364f943f-1ffe-42e2-b615-a7430334bd2e",
+      "id": "521c87b3-511c-4fc1-bb34-d4e4d3655cc3",
+      "name": "Listar canales"
+    },
+    {
+      "updated": "2017-11-21T15:19:08Z",
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "216ad297-6f97-42b8-bb8d-def38f13a8f2",
+      "id": "0bb9e38a-bf43-4d1e-99fb-6a8a2268858e",
+      "name": "Listar comprobantes"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-05T11:08:00Z",
+      "moduleId": "055f1e3f-148d-4dea-9544-5aba331f65cf",
+      "id": "290d3a27-10ce-4613-9f28-049f07a4de00",
+      "name": "Eliminar razones"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "8dd94522-f2a2-458e-ade9-017f9294d698",
+      "id": "109714c1-caed-4864-a20c-071c5c44d069",
+      "name": "Listar Pa\u00edses"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "0131d131-e847-4e01-92bc-b61420ec5e86",
+      "id": "de0de893-7953-4178-8de2-9f82257e4f27",
+      "name": "Listar Idiomas"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-05T11:08:49Z",
+      "moduleId": "16cd2462-210c-4cef-b6de-e24acc39e14e",
+      "id": "66213f01-a6b4-4757-9674-c9df8338e58c",
+      "name": "Crear owners"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "af968222-2353-4655-8fe4-a8b783d37337",
+      "id": "b9355756-737a-4445-a613-1ed777ba4a02",
+      "name": "Listar razones"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-05T11:10:19Z",
+      "moduleId": "e3016cc5-c9c7-43bd-b9af-29e56320ed54",
+      "id": "925086a6-aed5-4688-9670-19350e82ccfa",
+      "name": "Editar status"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-05T11:11:56Z",
+      "moduleId": "a2a74e9b-4ee4-4ad4-878f-a2c2c7c34b81",
+      "id": "1f4e589a-cf05-4f61-bf8c-8d925e47d9ed",
+      "name": "Obtener estados"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "8fa38095-3d24-4f07-bc7c-b15c52944c7b",
+      "id": "b5e45f76-997b-4e52-a932-9154ec919e68",
+      "name": "Listar configuraci\u00f3n de reportes"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "cbc0431e-8b48-46fe-8cc0-629d0544531c",
+      "id": "36a8d76d-16b2-4ec9-9d27-6d13900b768d",
+      "name": "Listar cpanel"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "b288b214-afca-430e-9186-e067c44ce402",
+      "id": "a136cb93-dde8-4429-959f-c65967cc626d",
+      "name": "Listar cuentas"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "24d78e18-07da-4b27-8243-0db03c4e9616",
+      "id": "2eac0175-56eb-4e4d-a858-279245993295",
+      "name": "Listar planes"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "bbf640ac-9d97-4456-97cd-72fe0d17a50b",
+      "id": "3f01b01e-d315-497a-b7fd-13dab0afa1bb",
+      "name": "Listar logs de eventos"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "62f34e7b-efe9-4e96-ba2d-d80f380a3eb3",
+      "id": "dab84eac-c011-49f5-a6d3-9b697d4b303f",
+      "name": "Listar PBX"
+    },
+    {
+      "updated": "2017-08-25T10:03:38Z",
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "05a259c1-c972-4408-9a16-e9b7bfcfa1c4",
+      "id": "c457b4f9-205f-47e2-9f2f-8175660e4b22",
+      "name": "Listar recargas"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "b077e788-2d15-42d1-9b83-f1bcef83d489",
+      "id": "b29e6e7c-ae81-4bb8-8f05-296a7532877d",
+      "name": "Listar dispatchers"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "2f4bcad0-636e-4203-99dd-33d32539b26c",
+      "id": "ffaade0c-55c5-4693-8393-eca3fc78a133",
+      "name": "Listar bolsa de DID"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "1dfda399-26d3-4ebe-9246-f2cd671bbea2",
+      "id": "0b2ca1ae-3fc1-4f5f-ae5e-c0b3b87785d5",
+      "name": "Listar planes de llamada"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "2543b593-000f-4a7c-8756-ec889e17a4aa",
+      "id": "ebce9d60-aadf-4b3d-a6c8-63559c250252",
+      "name": "Listar promociones"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "565dc50d-a14d-4e5c-a200-4bed6fd090ae",
+      "id": "4d26b9dc-d4d0-4735-aaae-5bf60ec48b07",
+      "name": "Listar proveedores"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "094b0a2b-bcea-4345-8299-50b6dbcd43be",
+      "id": "68baea08-cb31-4ef0-8807-a3c434f1ae9c",
+      "name": "Listar ratecards"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "a62166d0-bc18-4611-a80c-85b668dc7bd1",
+      "id": "6119ffcf-1094-43e9-8734-1206b045c51e",
+      "name": "Listar troncales"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "fff589f5-232b-45ed-8794-5a209269f872",
+      "id": "85bde8d7-da56-4e7e-bbe6-ba870b752edf",
+      "name": "Listar usuarios"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "622b18a2-6c63-4aa3-b7bf-c392cedec932",
+      "id": "622dc9e4-f695-4252-b291-6cb61296f8d0",
+      "name": "Listar puestos"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "f56355d9-52ee-40c9-9cd7-0de48e076c76",
+      "id": "31f1c391-3140-4755-81ca-227c188c4cf5",
+      "name": "Listar roles"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "e6d96093-2433-44ba-a9c4-a027ab3389aa",
+      "id": "41756d34-1334-41de-ad25-7d2e9793e66d",
+      "name": "Listar permisos"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "caf4a6c9-8fa0-4e17-a03b-f30ed0d8f3ad",
+      "id": "79e4901d-01f7-4517-9748-54c804be7851",
+      "name": "Listar acciones"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "86cd28e0-c41c-4747-8250-074a26ebf968",
+      "id": "436e6744-e1da-48a0-ad6a-5e17ce179e6d",
+      "name": "Listar m\u00f3dulos"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "edc3c3e2-be2b-4e51-8b5c-af5e2522c614",
+      "id": "b604f814-4fb3-4ec3-b87a-9f976c19f08e",
+      "name": "Listar pasarelas"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "d5d7396b-8838-46c2-b3f2-2b138fddd3aa",
+      "id": "a9093042-9ea3-494b-ac37-5d6515784468",
+      "name": "Listar transacciones"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "07069035-7daf-47cf-be5a-3072f3df5f30",
+      "id": "14579d89-2fca-40ca-8f4d-b7694f771a87",
+      "name": "Listar paises"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "22dca795-4112-4662-8e14-74cc5db228c3",
+      "id": "47e09182-34cf-4476-a8d6-5c9cc3f2569d",
+      "name": "Listar moneda"
+    },
+    {
+      "updated": "2017-11-14T11:09:26Z",
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "5e095997-25ee-4fee-9d9d-530f8a7dfbd1",
+      "id": "5e4cce70-3d67-4953-b3fb-96b26b3caf55",
+      "name": "Editar cl\u00faster"
+    },
+    {
+      "updated": "2017-11-14T11:09:36Z",
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "5e095997-25ee-4fee-9d9d-530f8a7dfbd1",
+      "id": "f0762d0f-0f41-4aab-8632-44a5faeb3bd8",
+      "name": "Eliminar cl\u00faster"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "5e095997-25ee-4fee-9d9d-530f8a7dfbd1",
+      "id": "deb5edde-0521-42a4-a4cb-450aa0d6faed",
+      "name": "Crear cl\u00faster"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "cbc0431e-8b48-46fe-8cc0-629d0544531c",
+      "id": "b3ef644e-b48b-4da3-bdf8-1f7afa585c9f",
+      "name": "Editar cpanel"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "cbc0431e-8b48-46fe-8cc0-629d0544531c",
+      "id": "426ce127-296e-41bd-8e51-757c4e43ac83",
+      "name": "Crear cpanel"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "cbc0431e-8b48-46fe-8cc0-629d0544531c",
+      "id": "78dff81a-e752-479b-aee4-3a19ab39608f",
+      "name": "Eliminar cpanel"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "b288b214-afca-430e-9186-e067c44ce402",
+      "id": "6c401555-e1a4-4b58-bf4e-d62514bf41d0",
+      "name": "Editar cuentas"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "b288b214-afca-430e-9186-e067c44ce402",
+      "id": "bf7bfff0-a1f3-43bf-b4c6-67b6d0a8b906",
+      "name": "Crear cuentas"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "b288b214-afca-430e-9186-e067c44ce402",
+      "id": "d1368c52-acdf-4769-b1d6-6becd2fce66b",
+      "name": "Eliminar cuentas"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "24d78e18-07da-4b27-8243-0db03c4e9616",
+      "id": "2fc96e39-dd9f-405a-bbb0-1ca36c354dc8",
+      "name": "Editar planes"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "24d78e18-07da-4b27-8243-0db03c4e9616",
+      "id": "0da5f101-efab-4175-950e-adf9b99ae01b",
+      "name": "Crear planes"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "24d78e18-07da-4b27-8243-0db03c4e9616",
+      "id": "e33686cc-6f57-440e-be9a-58473c104a58",
+      "name": "Eliminar planes"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "fff589f5-232b-45ed-8794-5a209269f872",
+      "id": "b5956575-1070-4e19-b55c-aa95c2e4f1df",
+      "name": "Editar usuarios"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "fff589f5-232b-45ed-8794-5a209269f872",
+      "id": "742d2f02-9746-4ab0-91ba-a4da068713fb",
+      "name": "Crear usuarios"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "fff589f5-232b-45ed-8794-5a209269f872",
+      "id": "574f6e61-92c5-439d-8037-1f15cf70905f",
+      "name": "Obtener usuarios"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "fff589f5-232b-45ed-8794-5a209269f872",
+      "id": "50c06b5a-4b7e-4230-82cb-c06ba00ca72e",
+      "name": "Eliminar usuarios"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "622b18a2-6c63-4aa3-b7bf-c392cedec932",
+      "id": "ec084a0a-e993-4bb3-b568-9ad41a24801e",
+      "name": "Obtener puestos"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "622b18a2-6c63-4aa3-b7bf-c392cedec932",
+      "id": "2ee12b27-f949-4906-ae38-9ee66e2798b5",
+      "name": "Eliminar puestos"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "622b18a2-6c63-4aa3-b7bf-c392cedec932",
+      "id": "c6cb2ea1-5818-418a-9925-334f92e1fac7",
+      "name": "Crear puestos"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "622b18a2-6c63-4aa3-b7bf-c392cedec932",
+      "id": "84a75290-4bef-4350-b1ec-826cd44fbbcd",
+      "name": "Editar puestos"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "f56355d9-52ee-40c9-9cd7-0de48e076c76",
+      "id": "2807e4b5-0508-4c72-b441-887c16992612",
+      "name": "Obtener roles"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "f56355d9-52ee-40c9-9cd7-0de48e076c76",
+      "id": "91e0b214-602f-4762-99f5-3b52c2c98331",
+      "name": "Eliminar roles"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "f56355d9-52ee-40c9-9cd7-0de48e076c76",
+      "id": "d684478c-79db-435a-9db5-396d1eb013eb",
+      "name": "Editar roles"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "f56355d9-52ee-40c9-9cd7-0de48e076c76",
+      "id": "1d95b90d-d64d-4e1c-b5d2-3b1eebb39d5c",
+      "name": "Crear roles"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "e6d96093-2433-44ba-a9c4-a027ab3389aa",
+      "id": "fca8ba85-14c9-4850-a280-a5214b277b16",
+      "name": "Obtener permisos"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "e6d96093-2433-44ba-a9c4-a027ab3389aa",
+      "id": "cce59956-21c0-4b92-9184-573397679867",
+      "name": "Eliminar permisos"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "e6d96093-2433-44ba-a9c4-a027ab3389aa",
+      "id": "2be135c8-4f52-4879-83de-5ced08309ca4",
+      "name": "Editar permisos"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "e6d96093-2433-44ba-a9c4-a027ab3389aa",
+      "id": "99fecdac-3787-43c8-9228-8416ec7dfc8d",
+      "name": "Crear permisos"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "caf4a6c9-8fa0-4e17-a03b-f30ed0d8f3ad",
+      "id": "965fc11b-1d9e-463f-b6ca-c07978549a84",
+      "name": "Obtener accciones"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "caf4a6c9-8fa0-4e17-a03b-f30ed0d8f3ad",
+      "id": "560ba858-fba4-4ee4-b37a-74b7bb332765",
+      "name": "Crear acciones"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "caf4a6c9-8fa0-4e17-a03b-f30ed0d8f3ad",
+      "id": "2334c037-a49c-44ae-be2e-5e53a3d8b39c",
+      "name": "Editar acciones"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "caf4a6c9-8fa0-4e17-a03b-f30ed0d8f3ad",
+      "id": "7ac9ba87-ef5d-42bb-93d4-e894a8036d6c",
+      "name": "Eliminar acciones"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "86cd28e0-c41c-4747-8250-074a26ebf968",
+      "id": "2e92e90c-3044-47cd-a8e3-48bad847b60a",
+      "name": "Crear m\u00f3dulos"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "86cd28e0-c41c-4747-8250-074a26ebf968",
+      "id": "e3158672-3def-4614-97f8-dfe4048bfb92",
+      "name": "Eliminar modulos"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "86cd28e0-c41c-4747-8250-074a26ebf968",
+      "id": "d409a78f-3a17-402b-b86e-23582c82cf8c",
+      "name": "Obtener m\u00f3dulos"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "86cd28e0-c41c-4747-8250-074a26ebf968",
+      "id": "a8199912-c718-458f-87a6-2a980189db1f",
+      "name": "Editar m\u00f3dulos"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-08-29T09:47:04Z",
+      "moduleId": "0d236f33-faa5-4bb1-aca6-a90a3b8690aa",
+      "id": "4a73a51e-3872-4c8f-9126-62d40c40af28",
+      "name": "Obtener indicadores"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-08-29T10:57:50Z",
+      "moduleId": "01054dbb-42e9-46b1-bbd3-d4eef0f84e33",
+      "id": "342f1e40-1ada-44aa-aa42-e64aa1210730",
+      "name": "Listar componentes"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-08-29T10:58:14Z",
+      "moduleId": "a1d89dda-f42b-472e-b926-d4d7a99820ab",
+      "id": "161178f7-6a85-41d1-81a0-7265aca2d721",
+      "name": "Listar secciones"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-08-29T10:58:38Z",
+      "moduleId": "6b67fa22-e406-4ca1-b30a-943b91fff2c1",
+      "id": "9662caa2-d098-441f-ba21-5c4e95302a04",
+      "name": "Listar p\u00e1ginas"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-08-29T10:58:52Z",
+      "moduleId": "a4f14ed1-988a-4d70-afa6-6dfc3236a293",
+      "id": "e3571cc9-49db-49fb-bb19-68866063c48b",
+      "name": "Listar portales"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-08-29T11:09:05Z",
+      "moduleId": "4bfc491d-2dd7-4d0c-bf5e-0af2ad57a8e3",
+      "id": "ea7e49c7-35a7-4377-929c-3c83f6b58401",
+      "name": "Listar emisi\u00f3n f\u00edsica"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-08-29T11:08:51Z",
+      "moduleId": "41ab52d0-6a8c-41f8-ae16-673d49020d25",
+      "id": "992cfbe6-9207-4b43-9d7b-34b7de067244",
+      "name": "Listar correlativos"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-11-10T12:06:43Z",
+      "moduleId": "ef2f56e5-b7e8-46be-a444-e18b8c624edf",
+      "id": "c4929bb3-e5f4-4e7d-8a5b-7fb3522a3783",
+      "name": "Editar productos"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-09-13T09:47:37Z",
+      "moduleId": "741e03c2-04f6-49af-ab19-9071cef81219",
+      "id": "4624e450-ba9c-4fff-bcec-3bfa7f2bef5f",
+      "name": "Obtener clientes"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-11-10T12:09:25Z",
+      "moduleId": "06882840-803d-4872-8c93-dfe291a334eb",
+      "id": "7b630c70-3c42-4342-bff3-964c7207dc60",
+      "name": "Obtener paquetes"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-11-28T10:53:51Z",
+      "moduleId": "a467a7b4-c38e-4e7a-9968-c49df8005cf9",
+      "id": "253c88a2-2f8e-4f75-bfb6-de99a98a5432",
+      "name": "Editar puntos de emisi\u00f3n"
+    },
+    {
+      "updated": "2017-11-28T10:51:09Z",
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-11-28T10:50:23Z",
+      "moduleId": "a467a7b4-c38e-4e7a-9968-c49df8005cf9",
+      "id": "1b353963-6da7-4fd8-b340-ca7f7b5bdbd3",
+      "name": "Listar puntos de emisi\u00f3n"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-09-13T10:56:19Z",
+      "moduleId": "5b914215-8809-4096-b146-277dd176a534",
+      "id": "12e9bc18-55d7-468e-842b-95d8556822f8",
+      "name": "Obtener contactos"
+    },
+    {
+      "updated": "2018-01-16T16:44:51Z",
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-09-13T10:55:50Z",
+      "moduleId": "5b914215-8809-4096-b146-277dd176a534",
+      "id": "28c119be-1a37-4759-8f0b-0a85edf24dcd",
+      "name": "Editar contactos"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-09-13T10:55:41Z",
+      "moduleId": "5b914215-8809-4096-b146-277dd176a534",
+      "id": "8a28a728-2d66-4b62-b453-e7959e53a843",
+      "name": "Eliminar contactos"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-09-13T10:55:29Z",
+      "moduleId": "5b914215-8809-4096-b146-277dd176a534",
+      "id": "80571e8a-d47f-48c7-8eba-45cf678585d6",
+      "name": "Crear contactos"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-09-13T10:54:22Z",
+      "moduleId": "e46b5720-48c5-453a-83e3-d11bb5d4de39",
+      "id": "948331fd-46b5-42d4-9271-32a37d3db2d1",
+      "name": "Eliminar direcciones"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-09-13T10:54:33Z",
+      "moduleId": "e46b5720-48c5-453a-83e3-d11bb5d4de39",
+      "id": "abc06c3a-3cb7-4093-9883-3e79edd56d2f",
+      "name": "Editar direcciones"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-09-13T10:53:56Z",
+      "moduleId": "e46b5720-48c5-453a-83e3-d11bb5d4de39",
+      "id": "09f3765b-cd6e-4e0c-961a-6f0a0b7d8e01",
+      "name": "Listar direcciones"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-09-13T10:54:48Z",
+      "moduleId": "e46b5720-48c5-453a-83e3-d11bb5d4de39",
+      "id": "e46e04c3-1987-4ff2-a686-dd6cfae7077a",
+      "name": "Obtener direcciones"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-09-13T10:54:08Z",
+      "moduleId": "e46b5720-48c5-453a-83e3-d11bb5d4de39",
+      "id": "6bf7232d-c72c-47e3-81cd-956c9d9eaf8b",
+      "name": "Crear direcciones"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-09-13T10:55:16Z",
+      "moduleId": "5b914215-8809-4096-b146-277dd176a534",
+      "id": "d2702173-01f1-4ab9-97c9-e5a6e48de879",
+      "name": "Listar contactos"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-10-31T10:38:00Z",
+      "moduleId": "5188ff2c-d183-46f2-948e-de70b3ae2d99",
+      "id": "7ce084fd-5cf0-4b01-825c-2addfb2468d9",
+      "name": "Editar ordenes"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-10-31T10:38:10Z",
+      "moduleId": "5188ff2c-d183-46f2-948e-de70b3ae2d99",
+      "id": "15f7c9e1-0b12-4b9e-b2c3-e8c3776a8f19",
+      "name": "Obtener ordenes"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-10-31T10:37:50Z",
+      "moduleId": "5188ff2c-d183-46f2-948e-de70b3ae2d99",
+      "id": "171bfcd0-fd21-4283-ba47-ea2ca5617e5a",
+      "name": "Eliminar ordenes"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-10-31T10:37:35Z",
+      "moduleId": "5188ff2c-d183-46f2-948e-de70b3ae2d99",
+      "id": "f4020c4e-2875-4472-9399-1055075c0055",
+      "name": "Crear ordenes"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-10-31T10:37:16Z",
+      "moduleId": "835a2db0-61e5-4b76-a442-bbf82fa22b33",
+      "id": "0ae26401-1411-4b6f-a2ae-b9f0aeea773b",
+      "name": "Obtener suscripciones"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-10-31T10:36:49Z",
+      "moduleId": "835a2db0-61e5-4b76-a442-bbf82fa22b33",
+      "id": "6a6e53bc-ab3b-4d91-a947-0de033debdb6",
+      "name": "Eliminar suscripciones"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-10-31T10:37:04Z",
+      "moduleId": "835a2db0-61e5-4b76-a442-bbf82fa22b33",
+      "id": "50227657-5311-4116-b178-453ae9fdd621",
+      "name": "Editar suscripciones"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-11-02T10:48:29Z",
+      "moduleId": "5e095997-25ee-4fee-9d9d-530f8a7dfbd1",
+      "id": "38e85f69-68e5-42b7-87b2-d7bcaae616b1",
+      "name": "Obtener cl\u00faster"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-11-06T14:36:35Z",
+      "moduleId": "8c488cd1-7316-4c88-9432-bd8028b21480",
+      "id": "0bf317a1-538b-4e77-ba54-1119dacf3f44",
+      "name": "Editar promociones"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-11-06T14:36:48Z",
+      "moduleId": "8c488cd1-7316-4c88-9432-bd8028b21480",
+      "id": "8618cd2a-95d7-4f8c-a88f-b6c16b72ef13",
+      "name": "Obtener promociones"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-11-06T14:36:07Z",
+      "moduleId": "8c488cd1-7316-4c88-9432-bd8028b21480",
+      "id": "6030729f-fead-49e7-8e14-88fa4a446bae",
+      "name": "Crear promociones"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-11-06T14:36:21Z",
+      "moduleId": "8c488cd1-7316-4c88-9432-bd8028b21480",
+      "id": "210ee8b9-603b-49ef-b0f4-a0261d600a00",
+      "name": "Eliminar promociones"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-11-06T14:35:51Z",
+      "moduleId": "8c488cd1-7316-4c88-9432-bd8028b21480",
+      "id": "8cc32d4f-0393-4e98-8d0a-2259e2d555fa",
+      "name": "Listar promociones"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-11-10T12:07:02Z",
+      "moduleId": "ef2f56e5-b7e8-46be-a444-e18b8c624edf",
+      "id": "b1e2915e-4874-4225-a6be-199df079dae5",
+      "name": "Obtener productos"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-11-10T12:22:52Z",
+      "moduleId": "682581d4-c2a7-441d-857c-651dc41ee59c",
+      "id": "f7943292-61e1-4e8a-9247-3ea9054bdbfc",
+      "name": "Obtener c\u00f3digos promocionales"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-11-10T12:22:20Z",
+      "moduleId": "682581d4-c2a7-441d-857c-651dc41ee59c",
+      "id": "eb30644e-aeba-43ed-ba52-d98cbc548bcc",
+      "name": "Crear c\u00f3digos promocionales"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-11-10T12:22:32Z",
+      "moduleId": "682581d4-c2a7-441d-857c-651dc41ee59c",
+      "id": "c7c8060f-bdde-4c2c-8e2f-0d00f22ef5e8",
+      "name": "Eliminar c\u00f3digos promocionales"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-11-10T12:22:41Z",
+      "moduleId": "682581d4-c2a7-441d-857c-651dc41ee59c",
+      "id": "dc82fe69-0006-4bca-9f35-2e7c280c3b28",
+      "name": "Editar c\u00f3digos promocionales"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-11-10T12:11:31Z",
+      "moduleId": "f09fe786-dbc0-4635-87f6-63098ad473b7",
+      "id": "bdf26ef0-4f80-406b-9a81-73c52232aa40",
+      "name": "Eliminar traducciones de paquetes"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-11-10T12:09:50Z",
+      "moduleId": "f09fe786-dbc0-4635-87f6-63098ad473b7",
+      "id": "e28e4d9d-de4e-406c-a9c3-ad36d391896e",
+      "name": "Listar traducciones de paquetes"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-11-10T12:10:07Z",
+      "moduleId": "f09fe786-dbc0-4635-87f6-63098ad473b7",
+      "id": "7d537493-ecbd-4fdf-b435-da339a6065bc",
+      "name": "Crear traducciones de paquetes"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-11-10T12:10:47Z",
+      "moduleId": "f09fe786-dbc0-4635-87f6-63098ad473b7",
+      "id": "baf2ca2f-83e4-48c4-9387-3c5a35624ca2",
+      "name": "Obtener traducciones de paquetes"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-11-10T12:10:32Z",
+      "moduleId": "f09fe786-dbc0-4635-87f6-63098ad473b7",
+      "id": "19415c1a-5f25-4a36-bdc5-eb30639cc288",
+      "name": "Editar traducciones de paquetes"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-11-10T12:19:41Z",
+      "moduleId": "9fbe7986-afd1-4d52-88c1-0d1ecccecd93",
+      "id": "f22b6ae9-46d6-4f55-9b0b-c0ae7f4f5c43",
+      "name": "Obtener traducciones de promociones"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-11-10T12:18:54Z",
+      "moduleId": "9fbe7986-afd1-4d52-88c1-0d1ecccecd93",
+      "id": "68045795-3aa7-4fa0-b793-241f5af1bc77",
+      "name": "Eliminar traducciones de promociones"
+    },
+    {
+      "updated": "2017-11-10T12:19:30Z",
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-11-10T12:19:17Z",
+      "moduleId": "9fbe7986-afd1-4d52-88c1-0d1ecccecd93",
+      "id": "6e7b7dc3-e9f1-4a0f-882b-e971c8fa6391",
+      "name": "Editar traducciones de promociones"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-11-10T12:18:40Z",
+      "moduleId": "9fbe7986-afd1-4d52-88c1-0d1ecccecd93",
+      "id": "03f68cac-ad90-4abf-b054-59ddc63dd88e",
+      "name": "Crear traducciones de promociones"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-11-10T12:18:28Z",
+      "moduleId": "9fbe7986-afd1-4d52-88c1-0d1ecccecd93",
+      "id": "0360b6ff-8a36-4fb4-a1f4-8a6dce21eb5f",
+      "name": "Listar traducciones de promociones"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-11-10T12:21:31Z",
+      "moduleId": "c03a9c78-436b-4316-969f-4ffcebb7ff00",
+      "id": "8da79454-fada-472d-8180-5f2d56453408",
+      "name": "Obtener traducciones de c\u00f3digos promocionales"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-11-10T12:21:02Z",
+      "moduleId": "c03a9c78-436b-4316-969f-4ffcebb7ff00",
+      "id": "d84bba08-374f-42cc-b3ca-36652821ede0",
+      "name": "Eliminar traducciones de c\u00f3digos promocionales"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-11-10T12:20:26Z",
+      "moduleId": "c03a9c78-436b-4316-969f-4ffcebb7ff00",
+      "id": "3c3d207d-f2af-4ed0-ac29-cfa4a3b761ee",
+      "name": "Listar traducciones de c\u00f3digos promocionales"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-11-10T12:20:45Z",
+      "moduleId": "c03a9c78-436b-4316-969f-4ffcebb7ff00",
+      "id": "081fce40-bd88-474f-af9f-d3598f3fd18e",
+      "name": "Crear traducciones de c\u00f3digos promocionales"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-11-10T12:21:18Z",
+      "moduleId": "c03a9c78-436b-4316-969f-4ffcebb7ff00",
+      "id": "6250e69f-f2cb-4c59-950e-9eb741140727",
+      "name": "Editar traducciones de c\u00f3digos promocionales"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-11-10T12:23:48Z",
+      "moduleId": "3252cfb6-6fad-49dd-bc2f-e34b9027c356",
+      "id": "8783c148-7c63-4ec4-ba21-4a778d3618b5",
+      "name": "Listar uso de c\u00f3digos promocionales"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-11-10T12:24:20Z",
+      "moduleId": "3252cfb6-6fad-49dd-bc2f-e34b9027c356",
+      "id": "9ec383e2-a281-429c-84e0-1781fd155449",
+      "name": "Obtener uso de c\u00f3digos promocionales"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-11-10T12:09:10Z",
+      "moduleId": "06882840-803d-4872-8c93-dfe291a334eb",
+      "id": "47a698ad-a7f2-4443-9b56-a14faeceb8c9",
+      "name": "Editar paquetes"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-05T11:08:15Z",
+      "moduleId": "055f1e3f-148d-4dea-9544-5aba331f65cf",
+      "id": "49a11b63-09e7-43ae-a90f-08997d5f0988",
+      "name": "Editar razones"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-05T11:09:15Z",
+      "moduleId": "16cd2462-210c-4cef-b6de-e24acc39e14e",
+      "id": "2042c699-2108-4d07-be55-a381570ef3cf",
+      "name": "Editar owners"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-05T11:10:08Z",
+      "moduleId": "e3016cc5-c9c7-43bd-b9af-29e56320ed54",
+      "id": "cdeb240b-d510-45b8-a488-e8d3a95ca880",
+      "name": "Eliminar status"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-05T11:11:22Z",
+      "moduleId": "a2a74e9b-4ee4-4ad4-878f-a2c2c7c34b81",
+      "id": "8eee5179-b5a2-4912-9710-c90127d1108e",
+      "name": "Eliminar estados"
+    },
+    {
+      "updated": "2017-11-21T15:54:33Z",
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "9a00ff34-7274-4f75-9306-7a9c457648da",
+      "id": "c4c0945b-bea1-4eb8-bcfb-6a1b1992ad2f",
+      "name": "Listar notas de d\u00e9bito"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-11-28T10:54:16Z",
+      "moduleId": "a467a7b4-c38e-4e7a-9968-c49df8005cf9",
+      "id": "16c6f0ae-40b6-4569-a16c-e3ac03521dd8",
+      "name": "Eliminar puntos de emisi\u00f3n"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-11-10T12:13:18Z",
+      "moduleId": "8011c691-3aba-4676-8a2d-544387f18886",
+      "id": "718b3eda-e8f4-475d-bec5-72f55c8ac34c",
+      "name": "Obtener traducciones de productos"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-11-10T12:12:20Z",
+      "moduleId": "8011c691-3aba-4676-8a2d-544387f18886",
+      "id": "3467f5e9-1ee8-4d09-ab66-7658e8a3d625",
+      "name": "Eliminar traducciones de productos"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-11-10T12:12:41Z",
+      "moduleId": "8011c691-3aba-4676-8a2d-544387f18886",
+      "id": "db050b78-8857-4fec-8c61-c0f3a769b93a",
+      "name": "Editar traducciones de productos"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-11-10T12:12:07Z",
+      "moduleId": "8011c691-3aba-4676-8a2d-544387f18886",
+      "id": "b58dbe19-bd88-4ff3-8909-a75d27f8e1d8",
+      "name": "Crear traducciones de productos"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-11-10T12:11:55Z",
+      "moduleId": "8011c691-3aba-4676-8a2d-544387f18886",
+      "id": "9115da61-9653-4667-b1ac-09c89d7db52d",
+      "name": "Listar traducciones de productos"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-11-10T12:14:45Z",
+      "moduleId": "17d5b60f-5afc-45f0-8c1d-a34a1d27644f",
+      "id": "9f7cd2ec-96b9-475c-b6e1-1de2b60d90c3",
+      "name": "Obtener precios de productos"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-11-10T12:14:32Z",
+      "moduleId": "17d5b60f-5afc-45f0-8c1d-a34a1d27644f",
+      "id": "e5645c8e-6d78-4456-a016-fc34ead77fd5",
+      "name": "Editar precios de productos"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-11-10T12:13:46Z",
+      "moduleId": "17d5b60f-5afc-45f0-8c1d-a34a1d27644f",
+      "id": "bcc0d1af-c28a-4e18-96f1-f136aa462bf2",
+      "name": "Listar precios de productos"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-11-10T12:14:16Z",
+      "moduleId": "17d5b60f-5afc-45f0-8c1d-a34a1d27644f",
+      "id": "cc7f186b-3465-4ecf-869d-93095ac3a471",
+      "name": "Eliminar precios de productos"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-11-10T12:14:01Z",
+      "moduleId": "17d5b60f-5afc-45f0-8c1d-a34a1d27644f",
+      "id": "ca73a735-c076-4e98-ba67-70592b20062e",
+      "name": "Crear precios de productos"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-11-10T12:16:52Z",
+      "moduleId": "8f072c08-1546-48f8-88b8-c4903d8b277f",
+      "id": "2c744ad5-2a33-465f-88b8-c20dca75900d",
+      "name": "Eliminar pa\u00edses de productos"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-11-10T12:16:33Z",
+      "moduleId": "8f072c08-1546-48f8-88b8-c4903d8b277f",
+      "id": "9e32538f-fc69-4b11-ba27-b21ba84653ab",
+      "name": "Obtener pa\u00edses de productos"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-11-10T12:15:11Z",
+      "moduleId": "8f072c08-1546-48f8-88b8-c4903d8b277f",
+      "id": "321da36e-26ba-43b2-a854-dbfe6debf358",
+      "name": "Listar pa\u00edses de productos"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-11-10T12:15:27Z",
+      "moduleId": "8f072c08-1546-48f8-88b8-c4903d8b277f",
+      "id": "63621f11-59d7-4cbd-97e4-cded39d78616",
+      "name": "Crear pa\u00edses de productos"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-11-10T12:15:56Z",
+      "moduleId": "8f072c08-1546-48f8-88b8-c4903d8b277f",
+      "id": "7e2de0a7-e366-4108-b92b-8e98c3567471",
+      "name": "Editar pa\u00edses de productos"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-11-10T12:06:11Z",
+      "moduleId": "ef2f56e5-b7e8-46be-a444-e18b8c624edf",
+      "id": "413adca3-fe8b-4728-ade4-b2a168755cc0",
+      "name": "Crear productos"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-05T11:08:26Z",
+      "moduleId": "055f1e3f-148d-4dea-9544-5aba331f65cf",
+      "id": "2d1e1920-bc34-488d-b07d-f9430c55e956",
+      "name": "Obtener razones"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-05T11:07:37Z",
+      "moduleId": "055f1e3f-148d-4dea-9544-5aba331f65cf",
+      "id": "0679f8b6-f3db-4ffd-b05f-e8fdf1834677",
+      "name": "Listar razones"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-05T11:09:04Z",
+      "moduleId": "16cd2462-210c-4cef-b6de-e24acc39e14e",
+      "id": "3de35d99-1001-45b2-9719-8e3a2aaaefb9",
+      "name": "Eliminar owners"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-05T11:08:37Z",
+      "moduleId": "16cd2462-210c-4cef-b6de-e24acc39e14e",
+      "id": "e2b587f4-76f7-48b4-b560-dbc1838edfbc",
+      "name": "Listar owners"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-05T11:10:39Z",
+      "moduleId": "e3016cc5-c9c7-43bd-b9af-29e56320ed54",
+      "id": "f1e34d91-a242-4bb6-a9e2-524d6057ff31",
+      "name": "Obtener status"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-05T11:09:57Z",
+      "moduleId": "e3016cc5-c9c7-43bd-b9af-29e56320ed54",
+      "id": "42f57a9a-820c-4f48-99f8-79db93f88940",
+      "name": "Crear status"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-05T11:11:42Z",
+      "moduleId": "a2a74e9b-4ee4-4ad4-878f-a2c2c7c34b81",
+      "id": "bb5e9cc2-abbf-4264-a82f-b791b5d472a7",
+      "name": "Editar estados"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-12T11:17:36Z",
+      "moduleId": "e7a289b2-2b77-4c09-a2bd-bffaad003e84",
+      "id": "e5b1c1c6-2f23-496a-a75b-30184d8eae21",
+      "name": "Listar proveedores"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-19T10:19:52Z",
+      "moduleId": "4601ba69-894e-4155-8481-88b35d2022d2",
+      "id": "a0ba663f-6f87-441d-929f-12e16cb053fb",
+      "name": "Listar dns subordinado"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-04T15:16:16Z",
+      "moduleId": "216ad297-6f97-42b8-bb8d-def38f13a8f2",
+      "id": "a96a6b15-58cc-4979-a0f8-47cdeb5958ab",
+      "name": "Crear Comprobantes"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-20T17:27:10Z",
+      "moduleId": "bffc6786-c740-47ec-a311-3754bca8038d",
+      "id": "d0624e49-f2c7-422b-99a4-0446d32709c6",
+      "name": "Obtener nota de cr\u00e9dito"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-20T17:34:53Z",
+      "moduleId": "4bfc491d-2dd7-4d0c-bf5e-0af2ad57a8e3",
+      "id": "fe561229-b657-4a0d-9225-57078cb300c9",
+      "name": "Obtener emisi\u00f3n f\u00edsica"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-20T17:41:11Z",
+      "moduleId": "41ab52d0-6a8c-41f8-ae16-673d49020d25",
+      "id": "75fb16e5-7e1b-4f6a-9e8e-541d1cf52e6a",
+      "name": "Eliminar correlativos"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-27T10:07:42Z",
+      "moduleId": "61d2f686-21d9-4c71-90cc-058655441344",
+      "id": "38dd6a68-1fc7-4925-94e3-a72742a9b835",
+      "name": "Crear SLD"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-27T10:11:25Z",
+      "moduleId": "ddb0be57-5bd9-4b09-bc0d-d835ca3fa95f",
+      "id": "866a6b64-c792-4ab9-9e94-4eef73544c3b",
+      "name": "Eliminar motivos"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-27T10:35:17Z",
+      "moduleId": "e7a289b2-2b77-4c09-a2bd-bffaad003e84",
+      "id": "73c770d3-194e-486f-95ab-004c4c2bc952",
+      "name": "Crear proveedores"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-27T11:33:10Z",
+      "moduleId": "cf146db0-be16-4cd6-b762-1407b7793e07",
+      "id": "b0b5f568-2b7f-461e-bbf9-b3e3efb72874",
+      "name": "Listar compa\u00f1ias"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-27T11:33:30Z",
+      "moduleId": "90521e1b-d367-47eb-8b69-643abc3e76ae",
+      "id": "6f505839-aadd-4bd4-87be-0b31c62032e3",
+      "name": "Listar propietarios"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-27T11:33:55Z",
+      "moduleId": "f75118ce-8448-4106-ac41-4897a0e01f71",
+      "id": "f5ec46f9-c732-4946-b6f4-9d1c4bc76315",
+      "name": "Listar tipos de contactos"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-11-10T12:06:30Z",
+      "moduleId": "ef2f56e5-b7e8-46be-a444-e18b8c624edf",
+      "id": "16680570-73b9-4cd2-95c0-341999776bca",
+      "name": "Eliminar productos"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-05T11:07:49Z",
+      "moduleId": "055f1e3f-148d-4dea-9544-5aba331f65cf",
+      "id": "47efb100-8cf8-4457-be99-85a87eab6364",
+      "name": "Crear razones"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-05T11:09:30Z",
+      "moduleId": "16cd2462-210c-4cef-b6de-e24acc39e14e",
+      "id": "ebca753d-9efc-4f06-a905-13171956b857",
+      "name": "Obtener owners"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-05T11:09:42Z",
+      "moduleId": "e3016cc5-c9c7-43bd-b9af-29e56320ed54",
+      "id": "ce7b0075-85f6-429f-97cf-f9a2d16cdfc5",
+      "name": "Listar status"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-05T11:11:01Z",
+      "moduleId": "a2a74e9b-4ee4-4ad4-878f-a2c2c7c34b81",
+      "id": "f0fbf788-eb6d-43f3-99bf-c213269a2f4b",
+      "name": "Listar estados"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-05T11:11:13Z",
+      "moduleId": "a2a74e9b-4ee4-4ad4-878f-a2c2c7c34b81",
+      "id": "4b44ede4-2dbd-4629-838c-119347f5cb72",
+      "name": "Crear estados"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-08-29T09:46:16Z",
+      "moduleId": "0d236f33-faa5-4bb1-aca6-a90a3b8690aa",
+      "id": "05977bac-36a0-4c22-b3de-e45b00dd8045",
+      "name": "Listar indicadores"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-14T11:56:18Z",
+      "moduleId": "3871af7f-545b-48c4-877c-10b608f0c0ae",
+      "id": "7f4dfe67-f7e7-4313-bdb0-9376dbf873f3",
+      "name": "Listar dominios"
+    },
+    {
+      "updated": "2018-05-17T17:23:25Z",
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-14T16:25:08Z",
+      "moduleId": "61d2f686-21d9-4c71-90cc-058655441344",
+      "id": "8c276f52-412c-4b32-ad4a-9611b11df923",
+      "name": "Listar SLD"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-20T17:26:53Z",
+      "moduleId": "9a00ff34-7274-4f75-9306-7a9c457648da",
+      "id": "315b7ecc-d304-4ab2-907a-3808485d9a46",
+      "name": "Obtener nota de d\u00e9bito"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-20T17:20:05Z",
+      "moduleId": "216ad297-6f97-42b8-bb8d-def38f13a8f2",
+      "id": "b038016c-94f8-4557-8e1c-8973e757c92e",
+      "name": "Obtener comprobantes"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-13T11:37:27Z",
+      "moduleId": "bffc6786-c740-47ec-a311-3754bca8038d",
+      "id": "2c0006c3-74d7-459d-9ddf-39d16827453d",
+      "name": "Crear nota de cr\u00e9dito"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-20T17:34:08Z",
+      "moduleId": "4bfc491d-2dd7-4d0c-bf5e-0af2ad57a8e3",
+      "id": "18999281-3dc9-4f20-93c8-77188af1fa0c",
+      "name": "Crear emisi\u00f3n f\u00edsica"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-20T17:40:39Z",
+      "moduleId": "41ab52d0-6a8c-41f8-ae16-673d49020d25",
+      "id": "ccbe3610-fc9c-4ec6-8bdb-e66f0347b7a9",
+      "name": "Editar correlativos"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-27T10:06:55Z",
+      "moduleId": "4601ba69-894e-4155-8481-88b35d2022d2",
+      "id": "bb8b3d52-0a8f-4547-9546-18d0e562b544",
+      "name": "Crear DNS subordinado"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-27T10:07:55Z",
+      "moduleId": "61d2f686-21d9-4c71-90cc-058655441344",
+      "id": "db9f6768-b473-4985-b839-cb3813eb15e1",
+      "name": "Eliminar SLD"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-27T10:09:41Z",
+      "moduleId": "3871af7f-545b-48c4-877c-10b608f0c0ae",
+      "id": "89316cf1-0820-4aa3-953c-33fead5c7b2a",
+      "name": "Eliminar dominios"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-27T10:11:10Z",
+      "moduleId": "ddb0be57-5bd9-4b09-bc0d-d835ca3fa95f",
+      "id": "8093a4b9-1467-4176-9021-db2f25f1a8d3",
+      "name": "Crear motivos"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-27T10:35:40Z",
+      "moduleId": "e7a289b2-2b77-4c09-a2bd-bffaad003e84",
+      "id": "17e99236-8154-45d4-a7c2-d8eef9dbf903",
+      "name": "Editar proveedores"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-27T11:33:42Z",
+      "moduleId": "c73e21d1-8840-4f0f-a366-2f4efef627ab",
+      "id": "67a9bff1-a144-464c-bd48-7b5776e16e94",
+      "name": "Listar estados"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-27T11:34:12Z",
+      "moduleId": "2bcf4f5d-fb9f-400b-82a1-013db20829e8",
+      "id": "012f8ba0-ea33-4c34-8700-2b05748b37f7",
+      "name": "Listar tipos de registros"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-11-10T12:07:49Z",
+      "moduleId": "06882840-803d-4872-8c93-dfe291a334eb",
+      "id": "0c76d7c6-5eeb-483d-8136-5d100f2419c7",
+      "name": "Eliminar paquetes"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-12T15:43:52Z",
+      "moduleId": "57c959e3-a953-4527-ac55-1e20317fdcda",
+      "id": "93d33b4f-a611-4ed3-a40b-a1e77eb3465c",
+      "name": "Listar TLD"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "bffc6786-c740-47ec-a311-3754bca8038d",
+      "id": "b98a0bd3-1ef8-42e0-b86f-a151c09a0021",
+      "name": "Listar notas de cr\u00e9dito"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-11-28T10:53:29Z",
+      "moduleId": "a467a7b4-c38e-4e7a-9968-c49df8005cf9",
+      "id": "b330d10e-43de-44fb-8a20-4995f0ae592f",
+      "name": "Crear puntos de emisi\u00f3n"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-11-14T11:12:18Z",
+      "moduleId": "cbc0431e-8b48-46fe-8cc0-629d0544531c",
+      "id": "4f9d9b38-2d89-49b8-b97c-200d6cc1590d",
+      "name": "Obtener cpanel"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-13T11:37:11Z",
+      "moduleId": "9a00ff34-7274-4f75-9306-7a9c457648da",
+      "id": "0e03a378-fb3a-4f8a-99da-61fe18b1ba4d",
+      "name": "Crear nota de d\u00e9bito"
+    },
+    {
+      "updated": "2017-11-14T15:19:39Z",
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-11-14T12:31:01Z",
+      "moduleId": "24d78e18-07da-4b27-8243-0db03c4e9616",
+      "id": "69f864c2-2a9f-464a-b55e-4626b44ffe53",
+      "name": "Obtener planes"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-20T17:37:25Z",
+      "moduleId": "41ab52d0-6a8c-41f8-ae16-673d49020d25",
+      "id": "75307053-1f12-4619-a3bd-9fcb1480ddb6",
+      "name": "Crear correlativos"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-27T10:07:07Z",
+      "moduleId": "4601ba69-894e-4155-8481-88b35d2022d2",
+      "id": "fc906659-3124-4ff5-acdc-843ed602c0aa",
+      "name": "Eliminar DNS subordinado"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-27T10:07:33Z",
+      "moduleId": "4601ba69-894e-4155-8481-88b35d2022d2",
+      "id": "9c41b052-9979-462e-83bc-f93bbc0bb71e",
+      "name": "Obtener DNS subordinado"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-27T10:08:07Z",
+      "moduleId": "61d2f686-21d9-4c71-90cc-058655441344",
+      "id": "2b561b33-149a-45c2-9481-db11897928a7",
+      "name": "Editar SLD"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-27T10:10:03Z",
+      "moduleId": "3871af7f-545b-48c4-877c-10b608f0c0ae",
+      "id": "52477f0c-2006-4702-a8f4-573ce799a716",
+      "name": "Obtener dominios"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-27T10:09:52Z",
+      "moduleId": "3871af7f-545b-48c4-877c-10b608f0c0ae",
+      "id": "272c858e-48f4-498c-ab5d-0ae30733dc38",
+      "name": "Editar dominios"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-27T10:11:35Z",
+      "moduleId": "ddb0be57-5bd9-4b09-bc0d-d835ca3fa95f",
+      "id": "4a192ac7-1dc0-478c-8e72-ca1411660f33",
+      "name": "Editar motivos"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-27T10:35:05Z",
+      "moduleId": "57c959e3-a953-4527-ac55-1e20317fdcda",
+      "id": "09a791fd-eada-415d-a8a2-eb329abd364d",
+      "name": "Obtener TLD"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-27T10:35:51Z",
+      "moduleId": "e7a289b2-2b77-4c09-a2bd-bffaad003e84",
+      "id": "05ea90ba-70da-4436-9569-c2d9ccd6a228",
+      "name": "Obtener proveedores"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-27T11:39:21Z",
+      "moduleId": "3b0ddcc7-67c3-4178-8052-17846f9fd3ca",
+      "id": "177ae592-d613-4ded-b100-d4453101d8d4",
+      "name": "Listar reportes"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-12T16:55:01Z",
+      "moduleId": "ddb0be57-5bd9-4b09-bc0d-d835ca3fa95f",
+      "id": "ec86746e-ea47-49bf-a738-067635951a68",
+      "name": "Listar motivos"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-13T10:17:10Z",
+      "moduleId": "b2e570c1-9a91-4d99-b451-ba847bb0890b",
+      "id": "d5e8df8a-7be4-4ad0-9d20-e4bbf2763835",
+      "name": "Listar event logs"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-21T09:00:52Z",
+      "moduleId": "41ab52d0-6a8c-41f8-ae16-673d49020d25",
+      "id": "92a488a6-e484-4278-af7e-a7fd3ebe1be1",
+      "name": "Obtener correlativos"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-11-10T12:07:38Z",
+      "moduleId": "06882840-803d-4872-8c93-dfe291a334eb",
+      "id": "65ddede1-540a-4f08-a59f-b2aaa52031b2",
+      "name": "Crear paquetes"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-11-28T10:52:10Z",
+      "moduleId": "a467a7b4-c38e-4e7a-9968-c49df8005cf9",
+      "id": "cb160eb0-1356-4fc2-a515-e6ce86967d4c",
+      "name": "Obtener puntos de emisi\u00f3n"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-11-14T18:10:27Z",
+      "moduleId": "b202395c-fda0-4acc-96cd-ca8f4510833d",
+      "id": "7f9a8c0a-0e01-4646-bbdf-d78e2467a692",
+      "name": "Listar monedas"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-11-14T18:03:28Z",
+      "moduleId": "8937fbfa-561c-484c-a420-e77f6a7349cd",
+      "id": "a235ccd4-0873-4784-a2ac-d57fe04fe419",
+      "name": "Obtener operaciones"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-11-14T18:03:04Z",
+      "moduleId": "8937fbfa-561c-484c-a420-e77f6a7349cd",
+      "id": "e2ad9261-e2cd-4021-8f6d-8b55b5b2a2de",
+      "name": "Eliminar operaciones"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-11-14T18:03:15Z",
+      "moduleId": "8937fbfa-561c-484c-a420-e77f6a7349cd",
+      "id": "eb6c1453-9590-406e-8d27-0cc8f3fa33c5",
+      "name": "Editar operaciones"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-11-14T18:02:52Z",
+      "moduleId": "8937fbfa-561c-484c-a420-e77f6a7349cd",
+      "id": "3143c6f8-7f14-4d91-9f00-dfccea6f2af9",
+      "name": "Crear operaciones"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-11-14T18:02:40Z",
+      "moduleId": "8937fbfa-561c-484c-a420-e77f6a7349cd",
+      "id": "09f8fdec-3e66-438f-84da-ea2f22ac434a",
+      "name": "Listar operaciones"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-11-14T18:10:01Z",
+      "moduleId": "30239cf2-f1df-4e4c-80d9-0bba64beb4ad",
+      "id": "f0edad21-8e4e-4036-8539-96ea5d6d0861",
+      "name": "Crear periodicidad"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-11-14T18:03:53Z",
+      "moduleId": "30239cf2-f1df-4e4c-80d9-0bba64beb4ad",
+      "id": "d03dc80b-4511-4035-bd4e-33c869d0520e",
+      "name": "Listar periodicidad"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-11-14T18:12:07Z",
+      "moduleId": "a3e86e1c-124a-4904-bd74-c1e443e9ddd4",
+      "id": "15914afb-1cca-4956-80e5-0ede4d94aea0",
+      "name": "Obtener periodos"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-11-14T18:11:33Z",
+      "moduleId": "a3e86e1c-124a-4904-bd74-c1e443e9ddd4",
+      "id": "3f8e094f-c0c7-46e0-ae64-0fa5d92ef617",
+      "name": "Eliminar periodos"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-11-14T18:10:13Z",
+      "moduleId": "a3e86e1c-124a-4904-bd74-c1e443e9ddd4",
+      "id": "87ba7374-3cb1-42f0-98bc-3cf473e954cc",
+      "name": "Listar periodos"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-11-14T18:11:11Z",
+      "moduleId": "a3e86e1c-124a-4904-bd74-c1e443e9ddd4",
+      "id": "422d270a-de83-4eb3-bbb9-d00d84de9ba4",
+      "name": "Crear periodos"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-11-14T18:11:48Z",
+      "moduleId": "b202395c-fda0-4acc-96cd-ca8f4510833d",
+      "id": "19770911-cf13-4640-9814-a012a8f05079",
+      "name": "Editar monedas"
+    },
+    {
+      "updated": "2017-11-30T12:06:49Z",
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-11-14T12:30:25Z",
+      "moduleId": "b288b214-afca-430e-9186-e067c44ce402",
+      "id": "fe0e8568-cadd-48b1-95b0-220b1c93c49a",
+      "name": "Obtener cuentas"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "5e095997-25ee-4fee-9d9d-530f8a7dfbd1",
+      "id": "eaf8f435-6dee-4571-861e-a2951492c2cd",
+      "name": "Listar cl\u00faster"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-11-14T18:14:39Z",
+      "moduleId": "30239cf2-f1df-4e4c-80d9-0bba64beb4ad",
+      "id": "6d6ba002-f7b9-4966-9c45-a126f0ed2be9",
+      "name": "Obtener periodicidad"
+    },
+    {
+      "updated": "2017-11-15T09:43:42Z",
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-11-14T18:14:23Z",
+      "moduleId": "30239cf2-f1df-4e4c-80d9-0bba64beb4ad",
+      "id": "705ae6b5-541f-4890-bc53-26c0d03b254f",
+      "name": "Editar periodicidad"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-11-14T18:14:04Z",
+      "moduleId": "30239cf2-f1df-4e4c-80d9-0bba64beb4ad",
+      "id": "06b5134c-e58d-40ba-909b-35e968b72f8a",
+      "name": "Eliminar periodicidad"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-27T10:07:20Z",
+      "moduleId": "4601ba69-894e-4155-8481-88b35d2022d2",
+      "id": "55558fc8-65ed-4544-9703-b10ecd07b46a",
+      "name": "Editar dns subordinado"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-27T10:08:29Z",
+      "moduleId": "61d2f686-21d9-4c71-90cc-058655441344",
+      "id": "03bf8a4b-4705-4481-9ea6-ce5b62fa56f5",
+      "name": "Obtener SLD"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-27T10:09:31Z",
+      "moduleId": "3871af7f-545b-48c4-877c-10b608f0c0ae",
+      "id": "0c42d865-7c46-43aa-a246-266a284f3828",
+      "name": "Crear dominios"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-27T10:10:19Z",
+      "moduleId": "b2e570c1-9a91-4d99-b451-ba847bb0890b",
+      "id": "0f76900b-73ae-4101-b667-3a8050e59f16",
+      "name": "Obtener logs de eventos dominios"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-12-27T10:11:56Z",
+      "moduleId": "ddb0be57-5bd9-4b09-bc0d-d835ca3fa95f",
+      "id": "6c5c0ba8-f8f9-4eb3-adb3-f8655f0e06df",
+      "name": "Obtener motivos"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-27T10:34:42Z",
+      "moduleId": "57c959e3-a953-4527-ac55-1e20317fdcda",
+      "id": "12698080-afa5-42bd-a96e-2dfd17383dc9",
+      "name": "Eliminar TLD"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-12-27T10:34:54Z",
+      "moduleId": "57c959e3-a953-4527-ac55-1e20317fdcda",
+      "id": "65619577-728b-4364-acd6-49e6bd256a9a",
+      "name": "Editar TLD"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-12-27T10:34:29Z",
+      "moduleId": "57c959e3-a953-4527-ac55-1e20317fdcda",
+      "id": "d9ad928c-7b4c-4c53-9df3-a1a792600d19",
+      "name": "Crear TLD"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-12-27T10:35:28Z",
+      "moduleId": "e7a289b2-2b77-4c09-a2bd-bffaad003e84",
+      "id": "782788b8-ca19-4603-b4ff-cb92cbb08b4d",
+      "name": "Eliminar proveedores"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2017-11-14T18:15:19Z",
+      "moduleId": "a3e86e1c-124a-4904-bd74-c1e443e9ddd4",
+      "id": "26210382-eac6-4c37-859e-38152251d3ab",
+      "name": "Editar periodos"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2017-11-14T18:16:25Z",
+      "moduleId": "b202395c-fda0-4acc-96cd-ca8f4510833d",
+      "id": "610faf1c-4a88-4ef3-a906-e7f2eccb7a91",
+      "name": "Obtener monedas"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2017-11-14T18:15:58Z",
+      "moduleId": "b202395c-fda0-4acc-96cd-ca8f4510833d",
+      "id": "b5cc2773-abc3-424d-af3f-08f822637394",
+      "name": "Eliminar monedas"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2017-11-14T18:15:49Z",
+      "moduleId": "b202395c-fda0-4acc-96cd-ca8f4510833d",
+      "id": "339504ed-cc9d-4232-85d1-02b40b4ae616",
+      "name": "Crear monedas"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "e8b3ed95-b507-4f0b-b88c-065b5da0e23a",
+      "id": "5aa82ac9-9ab0-4fba-8dfe-82dc116029ee",
+      "name": "Listar archivos"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "20b32bba-d952-4159-9aea-8eec534ea70f",
+      "id": "92865e70-c369-4069-8c78-deedde4e546a",
+      "name": "Listar tipo de archivos"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2018-01-03T17:45:49Z",
+      "moduleId": "8306ce17-c2f8-4c1e-98c0-b232fc07f0fb",
+      "id": "2de1576b-863e-41f8-aeca-d35c0c0bbc14",
+      "name": "Listar reportes"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2018-01-04T11:02:04Z",
+      "moduleId": "81dc491f-d875-4e0e-9ed0-0d43633ffbff",
+      "id": "97151803-09bc-487f-b192-540d99ca4769",
+      "name": "Listar mantenimiento"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2018-01-04T15:56:19Z",
+      "moduleId": "69089f4b-5672-43a0-bd28-4b05091ae793",
+      "id": "9a265f0f-a893-4484-a200-24c8c922ffd8",
+      "name": "Listar indicadores"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2018-01-04T17:23:44Z",
+      "moduleId": "c29c2401-5950-4589-87c4-0e2ad444b601",
+      "id": "f3bc896a-0c20-450f-8379-211920e90785",
+      "name": "Listar indicadores"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2018-01-04T18:53:30Z",
+      "moduleId": "b6169348-0119-4ec6-bc4f-de03d76d9a33",
+      "id": "11a62e1b-ded3-4681-853c-d769b3e67dd0",
+      "name": "Listar mantenimiento"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2018-01-09T11:52:29Z",
+      "moduleId": "b6169348-0119-4ec6-bc4f-de03d76d9a33",
+      "id": "d8aa8c4a-56c6-4c9e-9a5f-f7f824a48dba",
+      "name": "Eliminar mantenimiento"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2018-01-09T11:52:00Z",
+      "moduleId": "b6169348-0119-4ec6-bc4f-de03d76d9a33",
+      "id": "d5484350-9268-4001-96e2-a13da2d7a2c7",
+      "name": "Crear mantenimiento"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2018-01-09T11:51:48Z",
+      "moduleId": "b6169348-0119-4ec6-bc4f-de03d76d9a33",
+      "id": "922ff7f1-6a67-4a93-a064-61fb3473c008",
+      "name": "Editar mantenimiento"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2018-01-09T11:46:32Z",
+      "moduleId": "81dc491f-d875-4e0e-9ed0-0d43633ffbff",
+      "id": "7f439f81-7c2a-41c4-9c0b-171db7356771",
+      "name": "Editar mantenimiento"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2018-01-09T11:51:15Z",
+      "moduleId": "81dc491f-d875-4e0e-9ed0-0d43633ffbff",
+      "id": "865a4222-7040-43ab-a8c6-51ed02d39d5b",
+      "name": "Eliminar mantenimiento"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2018-01-10T11:13:49Z",
+      "moduleId": "d18969ec-2dea-4863-9ebc-8038c4a06514",
+      "id": "685702d9-d78d-4cd2-b73b-205932745ecc",
+      "name": "Crear punto de cobro"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2018-01-09T11:46:17Z",
+      "moduleId": "81dc491f-d875-4e0e-9ed0-0d43633ffbff",
+      "id": "0f0f2dcb-e45e-4d1c-be60-01a3e10154e4",
+      "name": "Crear mantenimiento"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2018-01-09T16:50:51Z",
+      "moduleId": "e59f7c9d-45dd-438b-ac6e-5415b3603034",
+      "id": "fba381f6-5b65-4e05-9407-89b69ab8fe17",
+      "name": "Crear tipos de cambio"
+    },
+    {
+      "updated": "2018-01-10T11:04:48Z",
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "d18969ec-2dea-4863-9ebc-8038c4a06514",
+      "id": "010a3e4a-a43c-4ba6-ad57-2051922e5d90",
+      "name": "Listar puntos de cobro"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2018-01-10T11:14:17Z",
+      "moduleId": "d18969ec-2dea-4863-9ebc-8038c4a06514",
+      "id": "472b537f-60bc-416e-b454-a2c4828b4729",
+      "name": "Eliminar punto de cobro"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2018-01-11T16:43:32Z",
+      "moduleId": "835a2db0-61e5-4b76-a442-bbf82fa22b33",
+      "id": "0baa30e6-7049-405f-aea2-840158011d9a",
+      "name": "Crear suscripciones"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2018-01-09T12:29:23Z",
+      "moduleId": "8306ce17-c2f8-4c1e-98c0-b232fc07f0fb",
+      "id": "8471f6e4-c06d-4fa6-89a5-3a9142e2a9ad",
+      "name": "Editar reporte"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2018-01-09T12:28:47Z",
+      "moduleId": "8306ce17-c2f8-4c1e-98c0-b232fc07f0fb",
+      "id": "44f2be51-ceba-4761-9ddc-b7a6499c9e1b",
+      "name": "Crear reporte"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2018-01-09T12:29:41Z",
+      "moduleId": "3b0ddcc7-67c3-4178-8052-17846f9fd3ca",
+      "id": "56dbc3c0-78ba-4e3c-a67b-0a46918ecc38",
+      "name": "Editar reporte"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2018-01-09T12:29:00Z",
+      "moduleId": "3b0ddcc7-67c3-4178-8052-17846f9fd3ca",
+      "id": "e33b3314-9a64-492f-ad04-e0a551c10e38",
+      "name": "Crear reporte"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "e59f7c9d-45dd-438b-ac6e-5415b3603034",
+      "id": "2f1b970c-e388-4be9-adc6-8104b7f917c1",
+      "name": "Listar tipos de cambio"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2018-01-10T11:14:32Z",
+      "moduleId": "d18969ec-2dea-4863-9ebc-8038c4a06514",
+      "id": "1c4aa274-82c5-4fea-a2d4-69d767b5208f",
+      "name": "Obtener punto de cobro"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2018-01-10T11:14:05Z",
+      "moduleId": "d18969ec-2dea-4863-9ebc-8038c4a06514",
+      "id": "39a9b6d0-baa1-48fe-bdc8-a092383ee6d9",
+      "name": "Editar punto de cobro"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2018-02-02T15:39:20Z",
+      "moduleId": "8f3a5899-1e32-4e51-b9b5-1426551bb578",
+      "id": "a0dd0341-ab32-4ffb-82ad-627137ddd52c",
+      "name": "Eliminar interacci\u00f3n"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2018-02-02T15:39:40Z",
+      "moduleId": "8f3a5899-1e32-4e51-b9b5-1426551bb578",
+      "id": "090b7c0a-8b28-473b-97ae-c0ad579d48bd",
+      "name": "Editar interacci\u00f3n"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2018-02-02T15:38:44Z",
+      "moduleId": "8f3a5899-1e32-4e51-b9b5-1426551bb578",
+      "id": "174c4254-26d6-4905-a7cb-c162e852e166",
+      "name": "Crear intearcci\u00f3n"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2018-02-02T15:39:58Z",
+      "moduleId": "8f3a5899-1e32-4e51-b9b5-1426551bb578",
+      "id": "a3198984-f4dc-466c-b6a3-3c6f595ab460",
+      "name": "Obtener interacci\u00f3n"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2018-02-02T15:37:17Z",
+      "moduleId": "8f3a5899-1e32-4e51-b9b5-1426551bb578",
+      "id": "682c836e-1c6a-4419-b57d-c57068fc1df9",
+      "name": "Listar interacci\u00f3n"
+    },
+    {
+      "updated": "2018-02-02T15:43:59Z",
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2018-02-02T15:43:46Z",
+      "moduleId": "848f445c-3ba5-4b85-88f9-ede836fa06af",
+      "id": "cf16eda9-f39b-4aeb-a64a-19a68da1e85c",
+      "name": "Listar mantenimiento"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2018-02-02T15:44:18Z",
+      "moduleId": "848f445c-3ba5-4b85-88f9-ede836fa06af",
+      "id": "4d878de1-d13b-487f-a357-5db9a4c88164",
+      "name": "Crear Mantenimiento"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2018-02-02T15:44:56Z",
+      "moduleId": "848f445c-3ba5-4b85-88f9-ede836fa06af",
+      "id": "4909a12c-7845-432d-9f2b-071b5a9b0734",
+      "name": "Editar mantenimiento"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2018-02-02T15:44:35Z",
+      "moduleId": "848f445c-3ba5-4b85-88f9-ede836fa06af",
+      "id": "c87c80ed-44e0-4d69-829f-59c68f28dcaf",
+      "name": "Eliminar mantenimiento"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2018-02-02T15:45:18Z",
+      "moduleId": "848f445c-3ba5-4b85-88f9-ede836fa06af",
+      "id": "8b65c52d-57b0-4a76-96c7-11893076a180",
+      "name": "Obtener mantenimiento"
+    },
+    {
+      "updated": "2018-02-14T12:38:34Z",
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2018-02-14T12:33:28Z",
+      "moduleId": "c349bff5-1eb7-43b5-b3dc-e352db9ce959",
+      "id": "31aed069-eacb-43a9-8181-9461dc9f4454",
+      "name": "Obtener Reportes Interacciones"
+    },
+    {
+      "updated": "2018-02-15T10:23:44Z",
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2018-02-14T17:28:20Z",
+      "moduleId": "f892ff3c-fa88-40e4-b7ce-9d1dd4927227",
+      "id": "438d8bfe-6538-4eed-9db3-cd2098033827",
+      "name": "Listar opciones de cobro"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2018-02-15T10:28:59Z",
+      "moduleId": "f892ff3c-fa88-40e4-b7ce-9d1dd4927227",
+      "id": "f47aaac5-4069-4588-b296-c0bf2cb1a0e0",
+      "name": "Crear opciones de cobro"
+    },
+    {
+      "updated": null,
+      "actionId": "ee149e05-d515-46cc-80bb-a0e181af1579",
+      "created": "2018-02-15T12:06:58Z",
+      "moduleId": "f892ff3c-fa88-40e4-b7ce-9d1dd4927227",
+      "id": "a280dfea-10e5-4199-aa6a-3d26dd5d3cd8",
+      "name": "Eliminar opci\u00f3n de cobro"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2018-03-05T16:45:51Z",
+      "moduleId": "af968222-2353-4655-8fe4-a8b783d37337",
+      "id": "92abc298-eb6b-49cd-af6b-078fc758901c",
+      "name": "Catalogos"
+    },
+    {
+      "updated": null,
+      "actionId": "15c6a447-381e-4532-adfa-080b5332b7a3",
+      "created": "2018-01-09T16:51:10Z",
+      "moduleId": "e59f7c9d-45dd-438b-ac6e-5415b3603034",
+      "id": "6cde1c52-ff24-4ce4-89ef-b325463a6377",
+      "name": "Editar tipos de cambio"
+    },
+    {
+      "updated": null,
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2018-03-12T16:24:37Z",
+      "moduleId": "e59f7c9d-45dd-438b-ac6e-5415b3603034",
+      "id": "8508891d-2ba2-4a2d-b0ef-32c1190f08af",
+      "name": "Ver historial de tipo de cambio"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2018-03-27T10:25:58Z",
+      "moduleId": "39d479d2-d85b-4ae8-83cb-3e613aa26be8",
+      "id": "66403acb-1d6c-4387-80d3-8e78f45bb54b",
+      "name": "Listar cobros"
+    },
+    {
+      "updated": "2018-05-08T11:13:58Z",
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2018-04-16T06:47:15Z",
+      "moduleId": "c349bff5-1eb7-43b5-b3dc-e352db9ce959",
+      "id": "15e4aa5e-04c7-4092-9936-13e3e7b60ac9",
+      "name": "Listar Reportes de Interacciones"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": null,
+      "moduleId": "622b18a2-6c63-4aa3-b7bf-c392cedec932",
+      "id": "84406328-694e-4a6f-99da-3774ae902492",
+      "name": "Acceso a modulo de Puestos"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": null,
+      "moduleId": "e6d96093-2433-44ba-a9c4-a027ab3389aa",
+      "id": "fd295e51-d95f-4d8a-bd1b-5dc6f0bfa064",
+      "name": "Acceso a modulo de Permisos"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": null,
+      "moduleId": "86cd28e0-c41c-4747-8250-074a26ebf968",
+      "id": "524911cf-f1d6-4f12-b126-0de193eefc0d",
+      "name": "Acceso a modulo de Modulos"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": null,
+      "moduleId": "f56355d9-52ee-40c9-9cd7-0de48e076c76",
+      "id": "239217d8-566c-42b3-9b66-cf8278411ef4",
+      "name": "Acceso a modulo de Roles"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": null,
+      "moduleId": "caf4a6c9-8fa0-4e17-a03b-f30ed0d8f3ad",
+      "id": "4f053666-d1a5-4a2d-a630-e294fefc7769",
+      "name": "Acceso a modulo de Acciones"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": null,
+      "moduleId": "fff589f5-232b-45ed-8794-5a209269f872",
+      "id": "a7599c17-3f25-4316-ac63-794091709b66",
+      "name": "Acceso a modulo de Usuarios"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:31:16Z",
+      "moduleId": "b6169348-0119-4ec6-bc4f-de03d76d9a33",
+      "id": "e5980e11-a4cf-4c9a-aa4b-b9ba22486c3e",
+      "name": "Acceso Preventa - Mantenimiento"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:35:22Z",
+      "moduleId": "d18969ec-2dea-4863-9ebc-8038c4a06514",
+      "id": "0514c47c-c5af-458f-ad03-866bf642c5a8",
+      "name": "Acceso Cobranzas - Punto de Cobro"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:36:48Z",
+      "moduleId": "e59f7c9d-45dd-438b-ac6e-5415b3603034",
+      "id": "9eab0c71-cc93-4d85-bda5-b436ed08d812",
+      "name": "Acceso Cobranzas - Tipos de cambio"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:37:06Z",
+      "moduleId": "39d479d2-d85b-4ae8-83cb-3e613aa26be8",
+      "id": "032ef684-5c49-4a99-86c4-be6e3339660d",
+      "name": "Acceso Cobranzas - Cobros"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:41:38Z",
+      "moduleId": "69089f4b-5672-43a0-bd28-4b05091ae793",
+      "id": "e303bfce-f4b1-439d-8154-3022f2bfda28",
+      "name": "Acceso Postventa - Indicadores"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:40:17Z",
+      "moduleId": "81dc491f-d875-4e0e-9ed0-0d43633ffbff",
+      "id": "a20946e0-897d-45d5-90ac-0725186179d9",
+      "name": "Acceso Postventa - Mantenimiento"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:40:41Z",
+      "moduleId": "3b0ddcc7-67c3-4178-8052-17846f9fd3ca",
+      "id": "65c71b56-4caf-4733-a475-204ac026cdc1",
+      "name": "Acceso Postventa - Seguimiento"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:43:21Z",
+      "moduleId": "bffc6786-c740-47ec-a311-3754bca8038d",
+      "id": "e873b857-ed46-43ba-b76d-a10b96951568",
+      "name": "Acceso Facturaci\u00f3n - Notas de Cr\u00e9dito"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:43:42Z",
+      "moduleId": "a467a7b4-c38e-4e7a-9968-c49df8005cf9",
+      "id": "72b87936-ef6f-4212-bbc7-1f3cfea8a70e",
+      "name": "Acceso Facturaci\u00f3n - Puntos de Emisi\u00f3n"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:43:59Z",
+      "moduleId": "41ab52d0-6a8c-41f8-ae16-673d49020d25",
+      "id": "4092a3d6-1009-42b0-9535-b44c87aac8c2",
+      "name": "Acceso Facturaci\u00f3n - Correlativos"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:44:14Z",
+      "moduleId": "216ad297-6f97-42b8-bb8d-def38f13a8f2",
+      "id": "488c1646-c874-463e-a6f7-150094dfa75c",
+      "name": "Acceso Facturaci\u00f3n - Comprobantes"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:44:34Z",
+      "moduleId": "9a00ff34-7274-4f75-9306-7a9c457648da",
+      "id": "b0e8cd8c-6fb0-40b5-8fbc-be0debf8b5fc",
+      "name": "Acceso Facturaci\u00f3n - Notas de D\u00e9bito"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:46:57Z",
+      "moduleId": "57c959e3-a953-4527-ac55-1e20317fdcda",
+      "id": "4e8e8da8-a90e-4619-a657-55f218dcf5eb",
+      "name": "Acceso Dominios - TLD"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:47:14Z",
+      "moduleId": "61d2f686-21d9-4c71-90cc-058655441344",
+      "id": "14101b89-b2b7-4b67-9cf5-87d3f4ad5874",
+      "name": "Acceso Dominios - SLD"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:47:30Z",
+      "moduleId": "3871af7f-545b-48c4-877c-10b608f0c0ae",
+      "id": "f5e4077c-3beb-4d79-a7a7-5de38bf3d399",
+      "name": "Acceso Dominios - Dominios"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:47:53Z",
+      "moduleId": "e7a289b2-2b77-4c09-a2bd-bffaad003e84",
+      "id": "beaf3991-bb19-4fa5-aedd-f7675fe66017",
+      "name": "Acceso Dominios - Proveedores"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:48:24Z",
+      "moduleId": "ddb0be57-5bd9-4b09-bc0d-d835ca3fa95f",
+      "id": "cc83695a-4762-4988-a08e-4abb317a27b4",
+      "name": "Acceso Dominios - Motivos"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:48:57Z",
+      "moduleId": "b2e570c1-9a91-4d99-b451-ba847bb0890b",
+      "id": "8bae3c93-0fb1-429d-acff-d3606fd9ec6d",
+      "name": "Acceso Dominios - Log de Eventos"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:39:49Z",
+      "moduleId": "c29c2401-5950-4589-87c4-0e2ad444b601",
+      "id": "d015004e-32af-470a-8954-e4f6ee99c6d6",
+      "name": "Acceso Preventa - Indicadores"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:39:21Z",
+      "moduleId": "8306ce17-c2f8-4c1e-98c0-b232fc07f0fb",
+      "id": "1d9c4b28-75fa-4341-adad-634f74cd75d6",
+      "name": "Acceso Preventa - Seguimiento"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:56:29Z",
+      "moduleId": "cbc0431e-8b48-46fe-8cc0-629d0544531c",
+      "id": "74b7d0c7-b2a0-466f-a76e-0f80134dbf1c",
+      "name": "Acceso Cpanel - Cpanel"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:57:03Z",
+      "moduleId": "0d236f33-faa5-4bb1-aca6-a90a3b8690aa",
+      "id": "4d51006a-0cf1-4200-806a-d59fa91e553a",
+      "name": "Acceso Cpanel - Indicadores"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:57:18Z",
+      "moduleId": "5e095997-25ee-4fee-9d9d-530f8a7dfbd1",
+      "id": "efdeac37-77b7-4b2d-838f-3a9dcc373d26",
+      "name": "Acceso Cpanel - Cluster"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:57:37Z",
+      "moduleId": "bbf640ac-9d97-4456-97cd-72fe0d17a50b",
+      "id": "8a705b48-71f2-4af1-828e-eb6920a78930",
+      "name": "Acceso Cpanel - Log de Eventos"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:57:57Z",
+      "moduleId": "24d78e18-07da-4b27-8243-0db03c4e9616",
+      "id": "e591e4de-af38-4417-ba66-755b75fb1e4a",
+      "name": "Acceso Cpanel - Planes"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:57:39Z",
+      "moduleId": "5188ff2c-d183-46f2-948e-de70b3ae2d99",
+      "id": "c235602a-9203-49ff-8850-75361f8cae1e",
+      "name": "Acceso Ventas - Ordenes"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:58:14Z",
+      "moduleId": "b288b214-afca-430e-9186-e067c44ce402",
+      "id": "164813d2-05d8-4ee1-a4fc-543b48335d1f",
+      "name": "Acceso Cpanel - Cuentas"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:58:01Z",
+      "moduleId": "741e03c2-04f6-49af-ab19-9071cef81219",
+      "id": "1d6ec1df-7694-4c29-a60d-8412eb8c53db",
+      "name": "Acceso Ventas - Clientes"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T13:58:26Z",
+      "moduleId": "835a2db0-61e5-4b76-a442-bbf82fa22b33",
+      "id": "75a2cb2a-8e50-40e4-a53f-1738e87398f5",
+      "name": "Acceso Ventas - Suscripciones"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T14:03:06Z",
+      "moduleId": "06882840-803d-4872-8c93-dfe291a334eb",
+      "id": "e7db4cd7-394a-4720-8cd9-8d6f210f24d4",
+      "name": "Acceso Marketing - Paquetes"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T14:01:59Z",
+      "moduleId": "682581d4-c2a7-441d-857c-651dc41ee59c",
+      "id": "2583c4d0-4b9d-4afa-9afc-0f6bcdeb14d4",
+      "name": "Acceso Marketing - C\u00f3digo Promocionales"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T14:06:04Z",
+      "moduleId": "ef2f56e5-b7e8-46be-a444-e18b8c624edf",
+      "id": "afc30e4b-b9dd-4924-b9d3-e5982f1698df",
+      "name": "Acceso Marketing - Productos"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-05-16T14:01:22Z",
+      "moduleId": "8c488cd1-7316-4c88-9432-bd8028b21480",
+      "id": "2ead116d-d3af-44ee-89b9-6b8e47bd9599",
+      "name": "Acceso Marketing - Promociones"
+    },
+    {
+      "updated": "2018-07-12T12:42:33Z",
+      "actionId": "845b46f5-c092-4a42-9672-5aa2c86dbf0f",
+      "created": "2018-07-12T12:37:13Z",
+      "moduleId": "39d479d2-d85b-4ae8-83cb-3e613aa26be8",
+      "id": "b9cdb16b-1b1e-47b6-a27c-f5615288c99d",
+      "name": "Acceso Cobranzas - Detalle de Cobro"
+    },
+    {
+      "updated": null,
+      "actionId": "aabbb535-fbc4-4545-a90f-5f3969650de2",
+      "created": "2018-07-13T09:40:38Z",
+      "moduleId": "39d479d2-d85b-4ae8-83cb-3e613aa26be8",
+      "id": "8967b549-2c33-45ac-81ab-3a36c4117275",
+      "name": "Acceso Cobranzas - Refacturaci\u00f3n"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-07-20T16:47:48Z",
+      "moduleId": "8fa38095-3d24-4f07-bc7c-b15c52944c7b",
+      "id": "025cebd0-d06d-4e6e-8d7c-7cae50c37434",
+      "name": "Ver configuracion de reportes"
+    },
+    {
+      "updated": null,
+      "actionId": "98390dcc-b1b8-47da-babd-44a540690079",
+      "created": "2018-07-20T16:47:27Z",
+      "moduleId": "d0678a83-aed4-4d96-9df6-ca0955dfe8a0",
+      "id": "4df0b0d8-dae8-4c69-9e68-e6e7ca7930f1",
+      "name": "Ver reportes generados"
+    },
+    {
+      "updated": null,
+      "actionId": "5bc58cb5-c174-4e11-a5ee-98603d3d16cb",
+      "created": "2017-12-29T16:59:49Z",
+      "moduleId": "d0678a83-aed4-4d96-9df6-ca0955dfe8a0",
+      "id": "6fef7c9d-9593-4577-ae97-0b666e32bc15",
+      "name": "Listar reportes generados"
+    }
+  ]
+}

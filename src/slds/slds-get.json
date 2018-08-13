@@ -1,0 +1,101 @@
+{
+  "results": [
+    {
+      "updated": null,
+      "name": "com.pe",
+      "providers": [
+        {
+          "updated": null,
+          "name": "RCP",
+          "created": "2018-05-07T11:59:08.912427Z",
+          "canAddRemoveIps": true,
+          "enabled": true,
+          "restrictedOwnership": false,
+          "nameClass": "rcp",
+          "slug": "rcp",
+          "metadata_": null,
+          "supportIpv6": true,
+          "id": "60232fd9-ac3d-49fa-af1c-c928c942bf51"
+        }
+      ],
+      "created": "2018-05-07T11:59:09.213073Z",
+      "enabled": true,
+      "id": "cf0d5b22-b0af-4025-8fdf-9546f54a350c",
+      "tldId": "59c98388-c988-46d3-b851-00248b43efa8",
+      "slug": "dominio-com-pe"
+    },
+    {
+      "updated": null,
+      "name": "net.pe",
+      "providers": [
+        {
+          "updated": null,
+          "name": "RCP",
+          "created": "2018-05-07T11:59:08.912427Z",
+          "canAddRemoveIps": true,
+          "enabled": true,
+          "restrictedOwnership": false,
+          "nameClass": "rcp",
+          "slug": "rcp",
+          "metadata_": null,
+          "supportIpv6": true,
+          "id": "60232fd9-ac3d-49fa-af1c-c928c942bf51"
+        }
+      ],
+      "created": "2018-05-07T11:59:09.233097Z",
+      "enabled": true,
+      "id": "2e93aa67-3b67-4ab2-adc0-df306c94b0af",
+      "tldId": "59c98388-c988-46d3-b851-00248b43efa8",
+      "slug": "dominio-net-pe"
+    },
+    {
+      "updated": null,
+      "name": "org.pe",
+      "providers": [
+        {
+          "updated": null,
+          "name": "RCP",
+          "created": "2018-05-07T11:59:08.912427Z",
+          "canAddRemoveIps": true,
+          "enabled": true,
+          "restrictedOwnership": false,
+          "nameClass": "rcp",
+          "slug": "rcp",
+          "metadata_": null,
+          "supportIpv6": true,
+          "id": "60232fd9-ac3d-49fa-af1c-c928c942bf51"
+        }
+      ],
+      "created": "2018-05-07T11:59:09.247485Z",
+      "enabled": true,
+      "id": "6ab99939-f438-44eb-840c-a3f43ebe9bd9",
+      "tldId": "59c98388-c988-46d3-b851-00248b43efa8",
+      "slug": "dominio-org-pe"
+    },
+    {
+      "updated": null,
+      "name": "nom.pe",
+      "providers": [
+        {
+          "updated": null,
+          "name": "RCP",
+          "created": "2018-05-07T11:59:08.912427Z",
+          "canAddRemoveIps": true,
+          "enabled": true,
+          "restrictedOwnership": false,
+          "nameClass": "rcp",
+          "slug": "rcp",
+          "metadata_": null,
+          "supportIpv6": true,
+          "id": "60232fd9-ac3d-49fa-af1c-c928c942bf51"
+        }
+      ],
+      "created": "2018-05-07T11:59:09.261387Z",
+      "enabled": true,
+      "id": "e748e92f-49a1-4f28-95be-ef3059a38f9e",
+      "tldId": "59c98388-c988-46d3-b851-00248b43efa8",
+      "slug": "dominio-nom-pe"
+    }
+  ],
+  "metadata": { "count": 4, "limit": 10, "offset": 0 }
+}

@@ -1,0 +1,105 @@
+{
+  "results": [
+    {
+      "updated": null,
+      "code": "RPRV",
+      "name": "Reclamo PRV",
+      "created": "2017-12-13T10:20:00.000000Z",
+      "postSale": false,
+      "enabled": true,
+      "id": "d85fde89-2779-403c-b89b-0cfc8572c590",
+      "slug": "reclamo-preventa"
+    },
+    {
+      "updated": null,
+      "code": "CPRV",
+      "name": "Consulta PRV",
+      "created": "2017-12-13T10:20:00.000000Z",
+      "postSale": false,
+      "enabled": true,
+      "id": "a43e7625-3a99-468f-b567-7fd266485305",
+      "slug": "consulta-preventa"
+    },
+    {
+      "updated": null,
+      "code": "QPOV",
+      "name": "Queja POV",
+      "created": "2017-12-13T10:20:00.000000Z",
+      "postSale": true,
+      "enabled": true,
+      "id": "1c79e098-803b-409d-9a71-10173a01a31f",
+      "slug": "queja-postventa"
+    },
+    {
+      "updated": null,
+      "code": "RPOV",
+      "name": "Reclamo POV",
+      "created": "2017-12-13T10:20:00.000000Z",
+      "postSale": true,
+      "enabled": true,
+      "id": "355f6174-0345-42f4-8881-bbbcf099c57f",
+      "slug": "reclamo-postventa"
+    },
+    {
+      "updated": null,
+      "code": "CPOV",
+      "name": "Consulta POV",
+      "created": "2017-12-13T10:20:00.000000Z",
+      "postSale": true,
+      "enabled": true,
+      "id": "2f58775b-2e6f-4b78-9bac-fb99b4b3c7b3",
+      "slug": "consulta-postventa"
+    },
+    {
+      "updated": "2018-05-21T14:05:24.787303Z",
+      "code": "CSOPPUAPOV",
+      "name": "Consulta Soporte PUADE",
+      "created": "2018-05-21T10:43:47.513574Z",
+      "postSale": true,
+      "enabled": true,
+      "id": "cb2d6b0f-f671-435f-b950-7eac3746ff0c",
+      "slug": "consulta-soporte-puade"
+    },
+    {
+      "updated": "2018-05-21T14:08:41.036386Z",
+      "code": "CSOPCORPOV",
+      "name": "Consulta Soporte Correo",
+      "created": "2018-05-21T12:41:48.573691Z",
+      "postSale": true,
+      "enabled": true,
+      "id": "b97172a1-8eee-48fe-9244-436f597e59c7",
+      "slug": "consulta-soporte-correo"
+    },
+    {
+      "updated": null,
+      "code": "CSOPDNSPOV",
+      "name": "Consulta Soporte Dominio o DNS",
+      "created": "2018-05-21T14:45:03.758228Z",
+      "postSale": true,
+      "enabled": true,
+      "id": "986f2bf9-8ac7-443f-9c8c-14acac7a5ee8",
+      "slug": "consulta-soporte-dominio-o-dns"
+    },
+    {
+      "updated": null,
+      "code": "CSOPHOSPOV",
+      "name": "Consulta Soporte Hosting",
+      "created": "2018-05-21T17:10:43.153616Z",
+      "postSale": true,
+      "enabled": true,
+      "id": "1c8c41ea-f542-4217-a688-0818c1314114",
+      "slug": "consulta-soporte-hosting"
+    },
+    {
+      "updated": null,
+      "code": "CSOPPANPOV",
+      "name": "Consulta Soporte Cpanel",
+      "created": "2018-05-21T17:23:32.792617Z",
+      "postSale": true,
+      "enabled": true,
+      "id": "6d314728-c0f1-4e2f-a454-d5a5c7c05b8c",
+      "slug": "consulta-soporte-cpanel"
+    }
+  ],
+  "metadata": { "count": 11, "limit": 10, "offset": 0 }
+}

@@ -1,0 +1,31 @@
+{
+  "results": [
+    {
+      "updated": null,
+      "name": "RCP",
+      "created": "2018-05-07T11:59:08.912427Z",
+      "canAddRemoveIps": true,
+      "enabled": true,
+      "restrictedOwnership": false,
+      "nameClass": "rcp",
+      "slug": "rcp",
+      "metadata_": null,
+      "supportIpv6": true,
+      "id": "60232fd9-ac3d-49fa-af1c-c928c942bf51"
+    },
+    {
+      "updated": null,
+      "name": "LOGICBOXES",
+      "created": "2018-05-07T11:59:08.929539Z",
+      "canAddRemoveIps": false,
+      "enabled": true,
+      "restrictedOwnership": true,
+      "nameClass": "logicboxes",
+      "slug": "logicboxes",
+      "metadata_": null,
+      "supportIpv6": false,
+      "id": "437bfb78-f1ee-45e5-b0d8-c8d040da002a"
+    }
+  ],
+  "metadata": { "count": 2, "limit": 10, "offset": 0 }
+}
